@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UFA™ — Ultimate Football Auction</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+  <script src="/socket.io/socket.io.js"></script>
+</head>
+<body>
+
+  <!-- JOIN / CREATE ROOM MODAL -->
+  <div class="modal-backdrop active" id="room-auth-modal">
+    <div class="auth-card">
+      <div class="logo-badge" style="width: max-content; margin: 0 auto 12px auto;">UFA™</div>
+      <h2>Auction Room Setup</h2>
+      <p class="hint" style="margin-bottom: 16px;">Multiplayer live auction floor</p>
+
+      <div class="auth-tabs">
+        <button type="button" class="tab-btn active" id="tab-create-btn" onclick="toggleAuthTab('create')">Host New Room</button>
+        <button type="button" class="tab-btn" id="tab-join-btn" onclick="toggleAuthTab('join')">Join Existing</button>
+      </div>
+
+      <div class="form-group">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <label for="inp-room-code">Room Code (12 Alphanumeric)</label>
+          <span class="char-counter" id="code-count">0/12</span>
+        </div>
+        <div style="display: flex; gap: 6px;">
+          <input type="text" id="inp-room-code" maxlength="12" placeholder="e.g. A9xK2mP7qL4w" oninput="updateCharCount('inp-room-code', 'code-count', 12)" />
+          <button type="button" class="btn-gen" id="btn-gen-code" onclick="autoGenerateCredentials()">🎲 Auto</button>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <label for="inp-room-pass">Password (8 Alphanumeric)</label>
+          <span class="char-counter" id="pass-count">0/8</span>
+        </div>
+        <input type="text" id="inp-room-pass" maxlength="8" placeholder="e.g. 7mK9pQ2x" oninput="updateCharCount('inp-room-pass', 'pass-count', 8)" />
+      </div>
+
+      <div class="form-group">
+        <label for="inp-team-name">Your Club Name</label>
+        <input type="text" id="inp-team-name" maxlength="24" placeholder="e.g. Real Madrid FC" />
+      </div>
+
+      <div id="host-settings-section" class="host-settings-box">
+        <h4 style="font-size: 0.75rem; text-transform: uppercase; color: var(--text-dim); margin-bottom: 10px; letter-spacing: 0.5px;">Lobby Configuration</h4>
+        <div class="settings-grid">
+          <div class="form-group">
+            <label for="cfg-max-teams">Max Clubs</label>
+            <select id="cfg-max-teams">
+              <option value="4" selected>4 Clubs</option>
+              <option value="5">5 Clubs</option>
+              <option value="6">6 Clubs</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="cfg-budget">Wallet Budget</label>
+            <select id="cfg-budget">
+              <option value="300">300 Coins</option>
+              <option value="500" selected>500 Coins</option>
+              <option value="750">750 Coins</option>
+              <option value="1000">1000 Coins</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group" style="margin-top: 6px;">
+          <label for="cfg-category">Pool Category</label>
+          <select id="cfg-category">
+            <option value="mixed" selected>Mixed (All Categories)</option>
+            <option value="icons">Icons Only</option>
+            <option value="hearts">End Of Era Only</option>
+            <option value="young gen">Stars Only</option>
+            <option value="normal">Young Gen Only</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-top: 18px;">
+        <button type="button" id="auth-submit-btn" class="btn-action btn-bid" style="width: 100%;" onclick="handleAuthSubmit()">Create & Host Room</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- TOP APP BAR -->
+  <header class="app-header">
+    <div class="brand">
+      <div class="logo-badge">UFA™</div>
+      <span class="brand-title">Ultimate Football Auction</span>
+    </div>
+    <div class="room-status">
+      <span class="live-indicator" id="live-dot"></span>
+      <span id="phase-indicator">LOBBY: WAITING FOR CLUBS</span>
+    </div>
+    
+    <!-- ADMIN & ACTION BUTTONS -->
+    <div class="admin-controls">
+      <button type="button" class="btn-ai-open" onclick="openAnalysisModal()">⚡ Squads Overview</button>
+      <button type="button" id="host-start-btn" class="btn-gold" style="display: none;" onclick="handleStartAuction(event)">Start Auction ▶</button>
+      
+      <div id="host-live-controls" style="display: none; gap: 6px; align-items: center;">
+        <button type="button" id="host-pause-btn" class="btn-ctrl btn-pause" onclick="handleTogglePause(event)">⏸ Pause</button>
+        <button type="button" id="host-close-btn" class="btn-ctrl btn-close-room" onclick="handleCloseRoom(event)">❌ Close Room</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN AUCTION FLOOR (3-COLUMN GRID RESTORED) -->
+  <main class="auction-grid">
+    <!-- LEFT: SQUADS & BUDGETS -->
+    <aside class="panel team-panel">
+      <div class="panel-header">
+        <h3>Connected Clubs</h3>
+        <span class="hint" id="connected-count">0/4 Joined</span>
+      </div>
+      <div class="teams-container" id="teams-list"></div>
+    </aside>
+
+    <!-- CENTER: STAGE (LOBBY ADS OR LIVE AUCTION) -->
+    <section class="panel center-stage" id="center-stage">
+      
+      <!-- 1. LOBBY ADS & LOUNGE CONTAINER (VISIBLE ONLY IN LOBBY) -->
+      <div class="lobby-stage-view" id="lobby-stage-view">
+        <div class="lobby-welcome-banner">
+          <div class="pill-tag-mini">LOBBY LOUNGE</div>
+          <h2 id="lobby-wait-title">Waiting for host to commence...</h2>
+          <p class="hint" id="lobby-wait-subtitle">Clubs are assembling. Prepare your tactical allocations.</p>
+        </div>
+
+        <!-- TOP AD: BIGGER / VIDEO AD SLOT -->
+        <div class="ad-slot-wrapper ad-slot-lobby-top">
+          <span class="ad-pill-label">SPONSORED VIDEO AD</span>
+          <div class="ad-box-lobby-video">
+            <div class="ad-inner-content">
+              <span class="ad-dimension">480 × 270 (16:9 Video Ad Slot)</span>
+              <span class="ad-subtext">Video / Rich-Media Placement</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- BOTTOM AD: SLIM & STATIC BANNER SLOT -->
+        <div class="ad-slot-wrapper ad-slot-lobby-bottom">
+          <span class="ad-pill-label">SPONSORED BANNER</span>
+          <div class="ad-box-lobby-slim">
+            <span class="ad-dimension">468 × 60 Slim Static Banner Slot</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- 2. LIVE AUCTION CONSOLE (TOPBAR, CARD, ACTION BAR - HIDDEN IN LOBBY) -->
+      <div class="live-stage-view" id="live-stage-view" style="display: none;">
+        
+        <div class="stage-topbar">
+          <div class="lot-counter" id="lot-index">LOT 1</div>
+          <div class="timer-box" id="timer-box">
+            <span class="timer-label" id="timer-label">HAMMER IN</span>
+            <span class="timer-value" id="timer">12</span>
+          </div>
+        </div>
+
+        <!-- FIXED HEIGHT PLAYER CARD (PREVENTS DOWNWARD JUMP ON SKIPS) -->
+        <div class="player-card" id="player-card">
+          
+          <!-- CLEAN WHITE 3-2-1 SUSPENSE OVERLAY (NO VIOLET, NO BOOM) -->
+          <div class="interstitial-overlay" id="interstitial-overlay">
+            <div class="countdown-digit-box">
+              <span class="countdown-digit" id="countdown-boom-text">3</span>
+            </div>
+            <div class="countdown-caption" id="boom-sub-text">NEXT LOT INCOMING</div>
+          </div>
+
+          <div class="card-top">
+            <div class="card-rating-badge">
+              <span class="card-ovr" id="card-ovr">--</span>
+              <span class="card-pos" id="card-pos">--</span>
+            </div>
+            <span class="category-tag" id="card-category">CATEGORY</span>
+          </div>
+
+          <div class="player-visual">
+            <div class="image-wrapper">
+              <img id="card-image" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='%2394a3b8'><circle cx='50' cy='50' r='50' fill='%23f1f5f9'/><path d='M50 46a16 16 0 1 0 0-32 16 16 0 0 0 0 32zm0 8c-18.7 0-35 11.7-35 28v2h70v-2c0-16.3-16.3-28-35-28z'/></svg>" alt="Card Avatar" />
+            </div>
+            <div class="player-details">
+              <h1 id="card-name">Waiting for auction...</h1>
+              <p class="player-meta"><span id="card-nat">--</span> • <span id="card-pri">--</span></p>
+            </div>
+          </div>
+
+          <div class="stats-grid" id="stats-grid"></div>
+        </div>
+
+        <!-- BID ACTION CONSOLE -->
+        <div class="bid-action-bar">
+          <div class="bid-info">
+            <div class="stat-pill">
+              <span>Base Price</span>
+              <strong id="base-price">0</strong>
+            </div>
+            <div class="stat-pill highlight">
+              <span>Current Price</span>
+              <strong id="current-bid">0</strong>
+            </div>
+            <div class="stat-pill">
+              <span>Highest Bidder</span>
+              <strong id="bid-leader">None</strong>
+            </div>
+            <div class="stat-pill slab-pill">
+              <span>Next Bid Slab</span>
+              <strong id="next-bid-val">0</strong>
+            </div>
+          </div>
+
+          <div class="action-inputs">
+            <div class="team-selector-wrap">
+              <span class="hint">Your Club: <strong id="my-club-display" style="color: var(--text-main);">Spectator</strong></span>
+            </div>
+            
+            <div class="bid-buttons">
+              <button type="button" id="btn-raise-bid" class="btn-action btn-bid" onclick="emitRaiseBid(event)">
+                Raise Bid (<span id="btn-bid-amount">+2</span>)
+              </button>
+              <button type="button" id="btn-pass" class="btn-action btn-pass" onclick="emitPassBid(event)">
+                Pass (<span id="pass-counter">0/4</span>)
+              </button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- RIGHT: LIVE LOG -->
+    <aside class="panel log-panel">
+      <div class="panel-header">
+        <h3>Live Auction Stream</h3>
+        <span class="badge-live">ONLINE</span>
+      </div>
+      <div class="log-stream" id="log-stream"></div>
+    </aside>
+  </main>
+
+  <!-- 5-SECOND PHASE-TRANSITION STATIC AD OVERLAY -->
+  <div class="phase-break-overlay" id="phase-break-overlay">
+    <div class="phase-break-card">
+      <div class="phase-break-header">
+        <div class="phase-badge-tag" id="phase-break-title">PHASE COMPLETE</div>
+        <span class="phase-timer-pill">Auction resuming in <strong id="phase-ad-countdown">5</strong>s</span>
+      </div>
+      <div class="phase-ad-box">
+        <span class="ad-notice-text">SPONSORED ADVERTISEMENT</span>
+        <div class="ad-mock-slot-static">
+          <span style="font-size: 1.1rem; font-weight: 700;">300 × 250 Medium Rectangle Ad Slot</span>
+          <span style="font-size: 0.8rem; color: var(--text-subtle);">Tactical Interval Sponsor</span>
+        </div>
+      </div>
+      <p class="phase-footer-note">Next lot sequence will launch automatically.</p>
+    </div>
+  </div>
+
+  <!-- SQUADS OVERVIEW MODAL -->
+  <div class="modal-backdrop" id="ai-modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div>
+          <h2>⚡ Real-Time Squads & Budgets</h2>
+          <p class="hint">Live overview of limits (Max: 1 Mgr, 3 Mid, 4 Fwd, 1 GK, 3 Def)</p>
+        </div>
+        <button type="button" class="btn-close" onclick="closeAnalysisModal()">✕</button>
+      </div>
+      <div class="modal-body" id="modal-body-content"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
