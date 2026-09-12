@@ -1,0 +1,427 @@
+[
+  {
+    "id": "m_001",
+    "name": "Sir Alex Ferguson",
+    "nationality": "Scotland",
+    "category": "manager",
+    "preferredFormation": "4-4-2",
+    "baseprice": 150,
+    "overall": 96,
+    "attributes": {
+      "attacking": 92,
+      "tactics": 90,
+      "discipline": 98,
+      "adaptability": 95,
+      "motivation": 99,
+      "defense": 88
+    }
+  },
+  {
+    "id": "m_002",
+    "name": "Pep Guardiola",
+    "nationality": "Spain",
+    "category": "manager",
+    "preferredFormation": "4-3-3",
+    "baseprice": 150,
+    "overall": 95,
+    "attributes": {
+      "attacking": 96,
+      "tactics": 98,
+      "discipline": 88,
+      "adaptability": 92,
+      "motivation": 89,
+      "defense": 86
+    }
+  },
+  {
+    "id": "m_003",
+    "name": "Carlo Ancelotti",
+    "nationality": "Italy",
+    "category": "manager",
+    "preferredFormation": "4-3-3",
+    "baseprice": 140,
+    "overall": 94,
+    "attributes": {
+      "attacking": 88,
+      "tactics": 93,
+      "discipline": 85,
+      "adaptability": 98,
+      "motivation": 96,
+      "defense": 85
+    }
+  },
+  {
+    "id": "m_004",
+    "name": "Johan Cruyff",
+    "nationality": "Netherlands",
+    "category": "manager",
+    "preferredFormation": "3-4-3",
+    "baseprice": 145,
+    "overall": 94,
+    "attributes": {
+      "attacking": 98,
+      "tactics": 96,
+      "discipline": 82,
+      "adaptability": 88,
+      "motivation": 90,
+      "defense": 76
+    }
+  },
+  {
+    "id": "m_005",
+    "name": "Jürgen Klopp",
+    "nationality": "Germany",
+    "category": "manager",
+    "preferredFormation": "4-3-3",
+    "baseprice": 135,
+    "overall": 93,
+    "attributes": {
+      "attacking": 94,
+      "tactics": 89,
+      "discipline": 88,
+      "adaptability": 86,
+      "motivation": 98,
+      "defense": 84
+    }
+  },
+  {
+    "id": "m_006",
+    "name": "José Mourinho",
+    "nationality": "Portugal",
+    "category": "manager",
+    "preferredFormation": "4-2-3-1",
+    "baseprice": 135,
+    "overall": 93,
+    "attributes": {
+      "attacking": 80,
+      "tactics": 96,
+      "discipline": 95,
+      "adaptability": 90,
+      "motivation": 96,
+      "defense": 98
+    }
+  },
+  {
+    "id": "m_007",
+    "name": "Arrigo Sacchi",
+    "nationality": "Italy",
+    "category": "manager",
+    "preferredFormation": "4-4-2",
+    "baseprice": 135,
+    "overall": 93,
+    "attributes": {
+      "attacking": 90,
+      "tactics": 98,
+      "discipline": 95,
+      "adaptability": 85,
+      "motivation": 88,
+      "defense": 95
+    }
+  },
+  {
+    "id": "m_008",
+    "name": "Arsène Wenger",
+    "nationality": "France",
+    "category": "manager",
+    "preferredFormation": "4-2-3-1",
+    "baseprice": 125,
+    "overall": 91,
+    "attributes": {
+      "attacking": 93,
+      "tactics": 88,
+      "discipline": 86,
+      "adaptability": 85,
+      "motivation": 89,
+      "defense": 80
+    }
+  },
+  {
+    "id": "m_009",
+    "name": "Zinedine Zidane",
+    "nationality": "France",
+    "category": "manager",
+    "preferredFormation": "4-3-3",
+    "baseprice": 125,
+    "overall": 92,
+    "attributes": {
+      "attacking": 88,
+      "tactics": 89,
+      "discipline": 86,
+      "adaptability": 95,
+      "motivation": 96,
+      "defense": 85
+    }
+  },
+  {
+    "id": "m_010",
+    "name": "Rinus Michels",
+    "nationality": "Netherlands",
+    "category": "manager",
+    "preferredFormation": "4-3-3",
+    "baseprice": 140,
+    "overall": 94,
+    "attributes": {
+      "attacking": 96,
+      "tactics": 98,
+      "discipline": 90,
+      "adaptability": 88,
+      "motivation": 89,
+      "defense": 86
+    }
+  },
+  {
+    "id": "m_011",
+    "name": "Vicente del Bosque",
+    "nationality": "Spain",
+    "category": "manager",
+    "preferredFormation": "4-2-3-1",
+    "baseprice": 120,
+    "overall": 91,
+    "attributes": {
+      "attacking": 88,
+      "tactics": 89,
+      "discipline": 86,
+      "adaptability": 94,
+      "motivation": 90,
+      "defense": 86
+    }
+  },
+  {
+    "id": "m_012",
+    "name": "Diego Simeone",
+    "nationality": "Argentina",
+    "category": "manager",
+    "preferredFormation": "4-4-2",
+    "baseprice": 115,
+    "overall": 90,
+    "attributes": {
+      "attacking": 78,
+      "tactics": 92,
+      "discipline": 96,
+      "adaptability": 88,
+      "motivation": 97,
+      "defense": 95
+    }
+  },
+  {
+    "id": "m_013",
+    "name": "Lionel Scaloni",
+    "nationality": "Argentina",
+    "category": "manager",
+    "preferredFormation": "4-3-3",
+    "baseprice": 115,
+    "overall": 90,
+    "attributes": {
+      "attacking": 86,
+      "tactics": 90,
+      "discipline": 88,
+      "adaptability": 95,
+      "motivation": 96,
+      "defense": 86
+    }
+  },
+  {
+    "id": "m_014",
+    "name": "Didier Deschamps",
+    "nationality": "France",
+    "category": "manager",
+    "preferredFormation": "4-2-3-1",
+    "baseprice": 110,
+    "overall": 89,
+    "attributes": {
+      "attacking": 82,
+      "tactics": 89,
+      "discipline": 90,
+      "adaptability": 91,
+      "motivation": 93,
+      "defense": 90
+    }
+  },
+  {
+    "id": "m_015",
+    "name": "Xabi Alonso",
+    "nationality": "Spain",
+    "category": "manager",
+    "preferredFormation": "3-4-2-1",
+    "baseprice": 110,
+    "overall": 89,
+    "attributes": {
+      "attacking": 90,
+      "tactics": 92,
+      "discipline": 86,
+      "adaptability": 89,
+      "motivation": 88,
+      "defense": 85
+    }
+  },
+  {
+    "id": "m_016",
+    "name": "Antonio Conte",
+    "nationality": "Italy",
+    "category": "manager",
+    "preferredFormation": "3-5-2",
+    "baseprice": 105,
+    "overall": 89,
+    "attributes": {
+      "attacking": 83,
+      "tactics": 90,
+      "discipline": 95,
+      "adaptability": 82,
+      "motivation": 94,
+      "defense": 88
+    }
+  },
+  {
+    "id": "m_017",
+    "name": "Mikel Arteta",
+    "nationality": "Spain",
+    "category": "manager",
+    "preferredFormation": "4-3-3",
+    "baseprice": 100,
+    "overall": 88,
+    "attributes": {
+      "attacking": 89,
+      "tactics": 90,
+      "discipline": 88,
+      "adaptability": 86,
+      "motivation": 87,
+      "defense": 86
+    }
+  },
+  {
+    "id": "m_018",
+    "name": "Thomas Tuchel",
+    "nationality": "Germany",
+    "category": "manager",
+    "preferredFormation": "3-4-3",
+    "baseprice": 100,
+    "overall": 88,
+    "attributes": {
+      "attacking": 84,
+      "tactics": 93,
+      "discipline": 86,
+      "adaptability": 90,
+      "motivation": 85,
+      "defense": 88
+    }
+  },
+  {
+    "id": "m_019",
+    "name": "Luis Enrique",
+    "nationality": "Spain",
+    "category": "manager",
+    "preferredFormation": "4-3-3",
+    "baseprice": 95,
+    "overall": 88,
+    "attributes": {
+      "attacking": 90,
+      "tactics": 88,
+      "discipline": 88,
+      "adaptability": 85,
+      "motivation": 88,
+      "defense": 82
+    }
+  },
+  {
+    "id": "m_020",
+    "name": "Unai Emery",
+    "nationality": "Spain",
+    "category": "manager",
+    "preferredFormation": "4-4-2",
+    "baseprice": 95,
+    "overall": 87,
+    "attributes": {
+      "attacking": 85,
+      "tactics": 91,
+      "discipline": 85,
+      "adaptability": 89,
+      "motivation": 87,
+      "defense": 85
+    }
+  },
+  {
+    "id": "m_021",
+    "name": "Massimiliano Allegri",
+    "nationality": "Italy",
+    "category": "manager",
+    "preferredFormation": "3-5-2",
+    "baseprice": 95,
+    "overall": 87,
+    "attributes": {
+      "attacking": 78,
+      "tactics": 90,
+      "discipline": 88,
+      "adaptability": 92,
+      "motivation": 85,
+      "defense": 92
+    }
+  },
+  {
+    "id": "m_022",
+    "name": "Julian Nagelsmann",
+    "nationality": "Germany",
+    "category": "manager",
+    "preferredFormation": "4-2-3-1",
+    "baseprice": 90,
+    "overall": 87,
+    "attributes": {
+      "attacking": 90,
+      "tactics": 91,
+      "discipline": 82,
+      "adaptability": 88,
+      "motivation": 85,
+      "defense": 80
+    }
+  },
+  {
+    "id": "m_023",
+    "name": "Marcelo Bielsa",
+    "nationality": "Argentina",
+    "category": "manager",
+    "preferredFormation": "4-1-4-1",
+    "baseprice": 85,
+    "overall": 86,
+    "attributes": {
+      "attacking": 94,
+      "tactics": 90,
+      "discipline": 88,
+      "adaptability": 75,
+      "motivation": 92,
+      "defense": 70
+    }
+  },
+  {
+    "id": "m_024",
+    "name": "Roberto Mancini",
+    "nationality": "Italy",
+    "category": "manager",
+    "preferredFormation": "4-3-3",
+    "baseprice": 85,
+    "overall": 86,
+    "attributes": {
+      "attacking": 85,
+      "tactics": 88,
+      "discipline": 84,
+      "adaptability": 86,
+      "motivation": 88,
+      "defense": 86
+    }
+  },
+  {
+    "id": "m_025",
+    "name": "Xavi Hernández",
+    "nationality": "Spain",
+    "category": "manager",
+    "preferredFormation": "4-3-3",
+    "baseprice": 80,
+    "overall": 85,
+    "attributes": {
+      "attacking": 88,
+      "tactics": 86,
+      "discipline": 82,
+      "adaptability": 80,
+      "motivation": 85,
+      "defense": 82
+    }
+  }
+]

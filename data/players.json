@@ -1,0 +1,7922 @@
+[
+  {
+    "id": "p_icons_001",
+    "name": "Pelé",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 150,
+    "overall": 98,
+    "attributes": {
+      "pace": 95,
+      "shooting": 96,
+      "passing": 93,
+      "dribbling": 96,
+      "defending": 60,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_icons_002",
+    "name": "Diego Maradona",
+    "nationality": "Argentina",
+    "category": "icons",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 150,
+    "overall": 97,
+    "attributes": {
+      "pace": 88,
+      "shooting": 93,
+      "passing": 95,
+      "dribbling": 98,
+      "defending": 40,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_icons_003",
+    "name": "Ronaldo Nazário",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 145,
+    "overall": 96,
+    "attributes": {
+      "pace": 97,
+      "shooting": 95,
+      "passing": 81,
+      "dribbling": 97,
+      "defending": 45,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_icons_004",
+    "name": "Johan Cruyff",
+    "nationality": "Netherlands",
+    "category": "icons",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 140,
+    "overall": 95,
+    "attributes": {
+      "pace": 91,
+      "shooting": 92,
+      "passing": 94,
+      "dribbling": 95,
+      "defending": 42,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_icons_005",
+    "name": "Thierry Henry",
+    "nationality": "France",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 135,
+    "overall": 93,
+    "attributes": {
+      "pace": 94,
+      "shooting": 91,
+      "passing": 83,
+      "dribbling": 90,
+      "defending": 53,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_icons_006",
+    "name": "Ferenc Puskás",
+    "nationality": "Hungary",
+    "category": "icons",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 130,
+    "overall": 94,
+    "attributes": {
+      "pace": 89,
+      "shooting": 96,
+      "passing": 91,
+      "dribbling": 92,
+      "defending": 46,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_icons_007",
+    "name": "George Best",
+    "nationality": "Northern Ireland",
+    "category": "icons",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 130,
+    "overall": 93,
+    "attributes": {
+      "pace": 93,
+      "shooting": 89,
+      "passing": 88,
+      "dribbling": 95,
+      "defending": 58,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_icons_008",
+    "name": "Eusébio",
+    "nationality": "Portugal",
+    "category": "icons",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 135,
+    "overall": 94,
+    "attributes": {
+      "pace": 94,
+      "shooting": 94,
+      "passing": 86,
+      "dribbling": 93,
+      "defending": 45,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_icons_009",
+    "name": "Gerd Müller",
+    "nationality": "Germany",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 135,
+    "overall": 94,
+    "attributes": {
+      "pace": 88,
+      "shooting": 96,
+      "passing": 77,
+      "dribbling": 86,
+      "defending": 46,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_icons_010",
+    "name": "Marco van Basten",
+    "nationality": "Netherlands",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 130,
+    "overall": 93,
+    "attributes": {
+      "pace": 83,
+      "shooting": 94,
+      "passing": 82,
+      "dribbling": 89,
+      "defending": 39,
+      "physical": 81
+    }
+  },
+  {
+    "id": "p_icons_011",
+    "name": "Didier Drogba",
+    "nationality": "Ivory Coast",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 115,
+    "overall": 90,
+    "attributes": {
+      "pace": 88,
+      "shooting": 90,
+      "passing": 75,
+      "dribbling": 82,
+      "defending": 50,
+      "physical": 91
+    }
+  },
+  {
+    "id": "p_icons_012",
+    "name": "Wayne Rooney",
+    "nationality": "England",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 120,
+    "overall": 91,
+    "attributes": {
+      "pace": 87,
+      "shooting": 91,
+      "passing": 85,
+      "dribbling": 88,
+      "defending": 62,
+      "physical": 90
+    }
+  },
+  {
+    "id": "p_icons_013",
+    "name": "Samuel Eto'o",
+    "nationality": "Cameroon",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 115,
+    "overall": 91,
+    "attributes": {
+      "pace": 94,
+      "shooting": 90,
+      "passing": 80,
+      "dribbling": 89,
+      "defending": 47,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_icons_014",
+    "name": "Andriy Shevchenko",
+    "nationality": "Ukraine",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 115,
+    "overall": 91,
+    "attributes": {
+      "pace": 88,
+      "shooting": 92,
+      "passing": 78,
+      "dribbling": 87,
+      "defending": 42,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_icons_015",
+    "name": "Alessandro Del Piero",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 110,
+    "overall": 91,
+    "attributes": {
+      "pace": 83,
+      "shooting": 92,
+      "passing": 89,
+      "dribbling": 92,
+      "defending": 42,
+      "physical": 69
+    }
+  },
+  {
+    "id": "p_icons_016",
+    "name": "Hristo Stoichkov",
+    "nationality": "Bulgaria",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 110,
+    "overall": 91,
+    "attributes": {
+      "pace": 90,
+      "shooting": 91,
+      "passing": 85,
+      "dribbling": 91,
+      "defending": 48,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_icons_017",
+    "name": "Romário",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 125,
+    "overall": 92,
+    "attributes": {
+      "pace": 90,
+      "shooting": 94,
+      "passing": 81,
+      "dribbling": 93,
+      "defending": 35,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_icons_018",
+    "name": "Roberto Baggio",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 115,
+    "overall": 92,
+    "attributes": {
+      "pace": 84,
+      "shooting": 88,
+      "passing": 92,
+      "dribbling": 93,
+      "defending": 39,
+      "physical": 62
+    }
+  },
+  {
+    "id": "p_icons_019",
+    "name": "Eric Cantona",
+    "nationality": "France",
+    "category": "icons",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 120,
+    "overall": 92,
+    "attributes": {
+      "pace": 86,
+      "shooting": 91,
+      "passing": 89,
+      "dribbling": 90,
+      "defending": 51,
+      "physical": 90
+    }
+  },
+  {
+    "id": "p_icons_020",
+    "name": "Fernando Torres",
+    "nationality": "Spain",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 105,
+    "overall": 89,
+    "attributes": {
+      "pace": 92,
+      "shooting": 88,
+      "passing": 76,
+      "dribbling": 86,
+      "defending": 45,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_icons_021",
+    "name": "David Villa",
+    "nationality": "Spain",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 105,
+    "overall": 90,
+    "attributes": {
+      "pace": 88,
+      "shooting": 91,
+      "passing": 80,
+      "dribbling": 87,
+      "defending": 42,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_icons_022",
+    "name": "Miroslav Klose",
+    "nationality": "Germany",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 100,
+    "overall": 89,
+    "attributes": {
+      "pace": 84,
+      "shooting": 89,
+      "passing": 74,
+      "dribbling": 81,
+      "defending": 52,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_icons_023",
+    "name": "Dennis Bergkamp",
+    "nationality": "Netherlands",
+    "category": "icons",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 110,
+    "overall": 91,
+    "attributes": {
+      "pace": 83,
+      "shooting": 88,
+      "passing": 90,
+      "dribbling": 91,
+      "defending": 36,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_icons_024",
+    "name": "Hugo Sánchez",
+    "nationality": "Mexico",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 105,
+    "overall": 90,
+    "attributes": {
+      "pace": 89,
+      "shooting": 91,
+      "passing": 78,
+      "dribbling": 88,
+      "defending": 42,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_icons_025",
+    "name": "Gary Lineker",
+    "nationality": "England",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 100,
+    "overall": 90,
+    "attributes": {
+      "pace": 87,
+      "shooting": 91,
+      "passing": 76,
+      "dribbling": 85,
+      "defending": 36,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_icons_026",
+    "name": "George Weah",
+    "nationality": "Liberia",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 105,
+    "overall": 90,
+    "attributes": {
+      "pace": 91,
+      "shooting": 88,
+      "passing": 78,
+      "dribbling": 89,
+      "defending": 40,
+      "physical": 87
+    }
+  },
+  {
+    "id": "p_icons_027",
+    "name": "Hernán Crespo",
+    "nationality": "Argentina",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 100,
+    "overall": 89,
+    "attributes": {
+      "pace": 86,
+      "shooting": 90,
+      "passing": 72,
+      "dribbling": 85,
+      "defending": 38,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_icons_028",
+    "name": "Patrick Kluivert",
+    "nationality": "Netherlands",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 88,
+    "attributes": {
+      "pace": 85,
+      "shooting": 86,
+      "passing": 80,
+      "dribbling": 85,
+      "defending": 43,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_icons_029",
+    "name": "Ian Wright",
+    "nationality": "England",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 88,
+    "attributes": {
+      "pace": 88,
+      "shooting": 90,
+      "passing": 71,
+      "dribbling": 84,
+      "defending": 40,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_icons_030",
+    "name": "Henrik Larsson",
+    "nationality": "Sweden",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 89,
+    "attributes": {
+      "pace": 86,
+      "shooting": 88,
+      "passing": 78,
+      "dribbling": 85,
+      "defending": 48,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_icons_031",
+    "name": "Jean-Pierre Papin",
+    "nationality": "France",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 89,
+    "attributes": {
+      "pace": 85,
+      "shooting": 92,
+      "passing": 73,
+      "dribbling": 84,
+      "defending": 40,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_icons_032",
+    "name": "Christian Vieri",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 90,
+    "overall": 88,
+    "attributes": {
+      "pace": 82,
+      "shooting": 89,
+      "passing": 70,
+      "dribbling": 80,
+      "defending": 42,
+      "physical": 90
+    }
+  },
+  {
+    "id": "p_icons_033",
+    "name": "David Trezeguet",
+    "nationality": "France",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 89,
+    "attributes": {
+      "pace": 83,
+      "shooting": 91,
+      "passing": 71,
+      "dribbling": 82,
+      "defending": 39,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_icons_034",
+    "name": "Filippo Inzaghi",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 90,
+    "overall": 88,
+    "attributes": {
+      "pace": 84,
+      "shooting": 89,
+      "passing": 68,
+      "dribbling": 80,
+      "defending": 35,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_icons_035",
+    "name": "Michael Owen",
+    "nationality": "England",
+    "category": "icons",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 100,
+    "overall": 89,
+    "attributes": {
+      "pace": 92,
+      "shooting": 88,
+      "passing": 71,
+      "dribbling": 85,
+      "defending": 36,
+      "physical": 66
+    }
+  },
+  {
+    "id": "p_endofera_036",
+    "name": "Lionel Messi",
+    "nationality": "Argentina",
+    "category": "endofera",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 120,
+    "overall": 92,
+    "attributes": {
+      "pace": 78,
+      "shooting": 90,
+      "passing": 92,
+      "dribbling": 93,
+      "defending": 34,
+      "physical": 62
+    }
+  },
+  {
+    "id": "p_endofera_037",
+    "name": "Cristiano Ronaldo",
+    "nationality": "Portugal",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 110,
+    "overall": 90,
+    "attributes": {
+      "pace": 77,
+      "shooting": 91,
+      "passing": 77,
+      "dribbling": 82,
+      "defending": 35,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_endofera_038",
+    "name": "Robert Lewandowski",
+    "nationality": "Poland",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 105,
+    "overall": 90,
+    "attributes": {
+      "pace": 75,
+      "shooting": 91,
+      "passing": 79,
+      "dribbling": 85,
+      "defending": 44,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_endofera_039",
+    "name": "Karim Benzema",
+    "nationality": "France",
+    "category": "endofera",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 100,
+    "overall": 89,
+    "attributes": {
+      "pace": 75,
+      "shooting": 87,
+      "passing": 83,
+      "dribbling": 86,
+      "defending": 39,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_endofera_040",
+    "name": "Luis Suárez",
+    "nationality": "Uruguay",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 90,
+    "overall": 86,
+    "attributes": {
+      "pace": 68,
+      "shooting": 87,
+      "passing": 80,
+      "dribbling": 82,
+      "defending": 45,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_endofera_041",
+    "name": "Neymar Jr",
+    "nationality": "Brazil",
+    "category": "endofera",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 100,
+    "overall": 89,
+    "attributes": {
+      "pace": 84,
+      "shooting": 82,
+      "passing": 85,
+      "dribbling": 92,
+      "defending": 37,
+      "physical": 60
+    }
+  },
+  {
+    "id": "p_endofera_042",
+    "name": "Antoine Griezmann",
+    "nationality": "France",
+    "category": "endofera",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 89,
+    "attributes": {
+      "pace": 78,
+      "shooting": 85,
+      "passing": 87,
+      "dribbling": 88,
+      "defending": 55,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_endofera_043",
+    "name": "Mohamed Salah",
+    "nationality": "Egypt",
+    "category": "endofera",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 110,
+    "overall": 90,
+    "attributes": {
+      "pace": 88,
+      "shooting": 87,
+      "passing": 82,
+      "dribbling": 89,
+      "defending": 45,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_endofera_044",
+    "name": "Heung Min Son",
+    "nationality": "South Korea",
+    "category": "endofera",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 100,
+    "overall": 88,
+    "attributes": {
+      "pace": 86,
+      "shooting": 88,
+      "passing": 81,
+      "dribbling": 85,
+      "defending": 42,
+      "physical": 70
+    }
+  },
+  {
+    "id": "p_endofera_045",
+    "name": "Sadio Mané",
+    "nationality": "Senegal",
+    "category": "endofera",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 86,
+    "attributes": {
+      "pace": 85,
+      "shooting": 82,
+      "passing": 78,
+      "dribbling": 86,
+      "defending": 44,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_endofera_046",
+    "name": "Pierre-Emerick Aubameyang",
+    "nationality": "Gabon",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 80,
+    "overall": 85,
+    "attributes": {
+      "pace": 84,
+      "shooting": 84,
+      "passing": 74,
+      "dribbling": 79,
+      "defending": 36,
+      "physical": 69
+    }
+  },
+  {
+    "id": "p_endofera_047",
+    "name": "Ángel Di María",
+    "nationality": "Argentina",
+    "category": "endofera",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 86,
+    "attributes": {
+      "pace": 76,
+      "shooting": 81,
+      "passing": 86,
+      "dribbling": 86,
+      "defending": 48,
+      "physical": 61
+    }
+  },
+  {
+    "id": "p_endofera_048",
+    "name": "Thomas Müller",
+    "nationality": "Germany",
+    "category": "endofera",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 80,
+    "overall": 85,
+    "attributes": {
+      "pace": 67,
+      "shooting": 82,
+      "passing": 82,
+      "dribbling": 79,
+      "defending": 55,
+      "physical": 70
+    }
+  },
+  {
+    "id": "p_endofera_049",
+    "name": "Ciro Immobile",
+    "nationality": "Italy",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 75,
+    "overall": 84,
+    "attributes": {
+      "pace": 78,
+      "shooting": 86,
+      "passing": 68,
+      "dribbling": 79,
+      "defending": 39,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_endofera_050",
+    "name": "Álvaro Morata",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 75,
+    "overall": 84,
+    "attributes": {
+      "pace": 80,
+      "shooting": 82,
+      "passing": 72,
+      "dribbling": 79,
+      "defending": 40,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_endofera_051",
+    "name": "Romelu Lukaku",
+    "nationality": "Belgium",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 75,
+    "overall": 84,
+    "attributes": {
+      "pace": 78,
+      "shooting": 83,
+      "passing": 71,
+      "dribbling": 76,
+      "defending": 38,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_endofera_052",
+    "name": "Edin Džeko",
+    "nationality": "Bosnia",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 83,
+    "attributes": {
+      "pace": 60,
+      "shooting": 83,
+      "passing": 73,
+      "dribbling": 75,
+      "defending": 45,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_endofera_053",
+    "name": "Olivier Giroud",
+    "nationality": "France",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 83,
+    "attributes": {
+      "pace": 42,
+      "shooting": 83,
+      "passing": 72,
+      "dribbling": 72,
+      "defending": 42,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_endofera_054",
+    "name": "Riyad Mahrez",
+    "nationality": "Algeria",
+    "category": "endofera",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 80,
+    "overall": 85,
+    "attributes": {
+      "pace": 78,
+      "shooting": 80,
+      "passing": 82,
+      "dribbling": 89,
+      "defending": 38,
+      "physical": 60
+    }
+  },
+  {
+    "id": "p_endofera_055",
+    "name": "Raheem Sterling",
+    "nationality": "England",
+    "category": "endofera",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 75,
+    "overall": 84,
+    "attributes": {
+      "pace": 86,
+      "shooting": 78,
+      "passing": 77,
+      "dribbling": 85,
+      "defending": 45,
+      "physical": 64
+    }
+  },
+  {
+    "id": "p_endofera_056",
+    "name": "Wilfried Zaha",
+    "nationality": "Ivory Coast",
+    "category": "endofera",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 70,
+    "overall": 83,
+    "attributes": {
+      "pace": 88,
+      "shooting": 77,
+      "passing": 74,
+      "dribbling": 86,
+      "defending": 35,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_endofera_057",
+    "name": "Roberto Firmino",
+    "nationality": "Brazil",
+    "category": "endofera",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 75,
+    "overall": 84,
+    "attributes": {
+      "pace": 72,
+      "shooting": 79,
+      "passing": 81,
+      "dribbling": 85,
+      "defending": 58,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_endofera_058",
+    "name": "Dries Mertens",
+    "nationality": "Belgium",
+    "category": "endofera",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 82,
+    "attributes": {
+      "pace": 76,
+      "shooting": 80,
+      "passing": 80,
+      "dribbling": 85,
+      "defending": 35,
+      "physical": 50
+    }
+  },
+  {
+    "id": "p_endofera_059",
+    "name": "Lorenzo Insigne",
+    "nationality": "Italy",
+    "category": "endofera",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 82,
+    "attributes": {
+      "pace": 81,
+      "shooting": 77,
+      "passing": 82,
+      "dribbling": 86,
+      "defending": 36,
+      "physical": 45
+    }
+  },
+  {
+    "id": "p_endofera_060",
+    "name": "Jamie Vardy",
+    "nationality": "England",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 82,
+    "attributes": {
+      "pace": 78,
+      "shooting": 83,
+      "passing": 68,
+      "dribbling": 76,
+      "defending": 52,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_endofera_061",
+    "name": "Iago Aspas",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 83,
+    "attributes": {
+      "pace": 75,
+      "shooting": 84,
+      "passing": 78,
+      "dribbling": 83,
+      "defending": 35,
+      "physical": 63
+    }
+  },
+  {
+    "id": "p_endofera_062",
+    "name": "Gerard Moreno",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 83,
+    "attributes": {
+      "pace": 76,
+      "shooting": 83,
+      "passing": 77,
+      "dribbling": 81,
+      "defending": 46,
+      "physical": 74
+    }
+  },
+  {
+    "id": "p_endofera_063",
+    "name": "Wissam Ben Yedder",
+    "nationality": "France",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 83,
+    "attributes": {
+      "pace": 78,
+      "shooting": 84,
+      "passing": 77,
+      "dribbling": 85,
+      "defending": 39,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_endofera_064",
+    "name": "Memphis Depay",
+    "nationality": "Netherlands",
+    "category": "endofera",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 70,
+    "overall": 83,
+    "attributes": {
+      "pace": 78,
+      "shooting": 81,
+      "passing": 79,
+      "dribbling": 83,
+      "defending": 30,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_endofera_065",
+    "name": "Andrej Kramarić",
+    "nationality": "Croatia",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 82,
+    "attributes": {
+      "pace": 70,
+      "shooting": 84,
+      "passing": 78,
+      "dribbling": 83,
+      "defending": 30,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_endofera_066",
+    "name": "Mauro Icardi",
+    "nationality": "Argentina",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 70,
+    "overall": 83,
+    "attributes": {
+      "pace": 75,
+      "shooting": 85,
+      "passing": 65,
+      "dribbling": 77,
+      "defending": 35,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_endofera_067",
+    "name": "Marko Arnautović",
+    "nationality": "Austria",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 81,
+    "attributes": {
+      "pace": 68,
+      "shooting": 81,
+      "passing": 74,
+      "dribbling": 81,
+      "defending": 40,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_endofera_068",
+    "name": "Dušan Tadić",
+    "nationality": "Serbia",
+    "category": "endofera",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 83,
+    "attributes": {
+      "pace": 65,
+      "shooting": 79,
+      "passing": 85,
+      "dribbling": 83,
+      "defending": 43,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_endofera_069",
+    "name": "Pedro",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 81,
+    "attributes": {
+      "pace": 72,
+      "shooting": 78,
+      "passing": 77,
+      "dribbling": 81,
+      "defending": 42,
+      "physical": 55
+    }
+  },
+  {
+    "id": "p_endofera_070",
+    "name": "Willian",
+    "nationality": "Brazil",
+    "category": "endofera",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 81,
+    "attributes": {
+      "pace": 75,
+      "shooting": 76,
+      "passing": 80,
+      "dribbling": 83,
+      "defending": 48,
+      "physical": 60
+    }
+  },
+  {
+    "id": "p_endofera_071",
+    "name": "Alexandre Lacazette",
+    "nationality": "France",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 83,
+    "attributes": {
+      "pace": 74,
+      "shooting": 83,
+      "passing": 76,
+      "dribbling": 82,
+      "defending": 42,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_endofera_072",
+    "name": "Alexis Sánchez",
+    "nationality": "Chile",
+    "category": "endofera",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 82,
+    "attributes": {
+      "pace": 74,
+      "shooting": 79,
+      "passing": 79,
+      "dribbling": 83,
+      "defending": 45,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_endofera_073",
+    "name": "Kevin Volland",
+    "nationality": "Germany",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 81,
+    "attributes": {
+      "pace": 72,
+      "shooting": 81,
+      "passing": 75,
+      "dribbling": 78,
+      "defending": 45,
+      "physical": 81
+    }
+  },
+  {
+    "id": "p_endofera_074",
+    "name": "Raúl Jiménez",
+    "nationality": "Mexico",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 80,
+    "attributes": {
+      "pace": 68,
+      "shooting": 79,
+      "passing": 72,
+      "dribbling": 76,
+      "defending": 48,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_endofera_075",
+    "name": "Arkadiusz Milik",
+    "nationality": "Poland",
+    "category": "endofera",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 81,
+    "attributes": {
+      "pace": 68,
+      "shooting": 82,
+      "passing": 71,
+      "dribbling": 76,
+      "defending": 35,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_stars_076",
+    "name": "Kylian Mbappé",
+    "nationality": "France",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 140,
+    "overall": 92,
+    "attributes": {
+      "pace": 97,
+      "shooting": 90,
+      "passing": 80,
+      "dribbling": 92,
+      "defending": 36,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_stars_077",
+    "name": "Erling Haaland",
+    "nationality": "Norway",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 140,
+    "overall": 92,
+    "attributes": {
+      "pace": 89,
+      "shooting": 94,
+      "passing": 68,
+      "dribbling": 80,
+      "defending": 45,
+      "physical": 88
+    }
+  },
+  {
+    "id": "p_stars_078",
+    "name": "Vinícius Jr.",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 135,
+    "overall": 90,
+    "attributes": {
+      "pace": 95,
+      "shooting": 83,
+      "passing": 82,
+      "dribbling": 91,
+      "defending": 29,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_stars_079",
+    "name": "Bukayo Saka",
+    "nationality": "England",
+    "category": "stars",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 120,
+    "overall": 88,
+    "attributes": {
+      "pace": 86,
+      "shooting": 83,
+      "passing": 82,
+      "dribbling": 88,
+      "defending": 65,
+      "physical": 74
+    }
+  },
+  {
+    "id": "p_stars_080",
+    "name": "Phil Foden",
+    "nationality": "England",
+    "category": "stars",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 125,
+    "overall": 89,
+    "attributes": {
+      "pace": 85,
+      "shooting": 84,
+      "passing": 86,
+      "dribbling": 90,
+      "defending": 55,
+      "physical": 63
+    }
+  },
+  {
+    "id": "p_stars_081",
+    "name": "Rafael Leão",
+    "nationality": "Portugal",
+    "category": "stars",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 115,
+    "overall": 87,
+    "attributes": {
+      "pace": 93,
+      "shooting": 79,
+      "passing": 76,
+      "dribbling": 87,
+      "defending": 27,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_stars_082",
+    "name": "Khvicha Kvaratskhelia",
+    "nationality": "Georgia",
+    "category": "stars",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 115,
+    "overall": 87,
+    "attributes": {
+      "pace": 88,
+      "shooting": 81,
+      "passing": 82,
+      "dribbling": 89,
+      "defending": 40,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_stars_083",
+    "name": "Lautaro Martínez",
+    "nationality": "Argentina",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 120,
+    "overall": 88,
+    "attributes": {
+      "pace": 83,
+      "shooting": 87,
+      "passing": 75,
+      "dribbling": 85,
+      "defending": 48,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_stars_084",
+    "name": "Victor Osimhen",
+    "nationality": "Nigeria",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 115,
+    "overall": 88,
+    "attributes": {
+      "pace": 90,
+      "shooting": 86,
+      "passing": 66,
+      "dribbling": 81,
+      "defending": 40,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_085",
+    "name": "Rodrygo",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 110,
+    "overall": 86,
+    "attributes": {
+      "pace": 89,
+      "shooting": 82,
+      "passing": 80,
+      "dribbling": 87,
+      "defending": 32,
+      "physical": 63
+    }
+  },
+  {
+    "id": "p_stars_086",
+    "name": "Alexander Isak",
+    "nationality": "Sweden",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 105,
+    "overall": 86,
+    "attributes": {
+      "pace": 88,
+      "shooting": 84,
+      "passing": 74,
+      "dribbling": 85,
+      "defending": 32,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_stars_087",
+    "name": "Julián Álvarez",
+    "nationality": "Argentina",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 110,
+    "overall": 86,
+    "attributes": {
+      "pace": 84,
+      "shooting": 84,
+      "passing": 79,
+      "dribbling": 85,
+      "defending": 54,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_stars_088",
+    "name": "Darwin Núñez",
+    "nationality": "Uruguay",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 90,
+      "shooting": 82,
+      "passing": 71,
+      "dribbling": 78,
+      "defending": 42,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_stars_089",
+    "name": "Dušan Vlahović",
+    "nationality": "Serbia",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "pace": 81,
+      "shooting": 85,
+      "passing": 68,
+      "dribbling": 79,
+      "defending": 28,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_090",
+    "name": "Federico Chiesa",
+    "nationality": "Italy",
+    "category": "stars",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "pace": 90,
+      "shooting": 81,
+      "passing": 77,
+      "dribbling": 86,
+      "defending": 48,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_stars_091",
+    "name": "Ollie Watkins",
+    "nationality": "England",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 100,
+    "overall": 85,
+    "attributes": {
+      "pace": 88,
+      "shooting": 84,
+      "passing": 73,
+      "dribbling": 81,
+      "defending": 40,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_stars_092",
+    "name": "Jarrod Bowen",
+    "nationality": "England",
+    "category": "stars",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 85,
+      "shooting": 82,
+      "passing": 77,
+      "dribbling": 83,
+      "defending": 51,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_stars_093",
+    "name": "Luis Díaz",
+    "nationality": "Colombia",
+    "category": "stars",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 105,
+    "overall": 85,
+    "attributes": {
+      "pace": 91,
+      "shooting": 79,
+      "passing": 76,
+      "dribbling": 87,
+      "defending": 34,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_stars_094",
+    "name": "Raphinha",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 89,
+      "shooting": 80,
+      "passing": 80,
+      "dribbling": 85,
+      "defending": 50,
+      "physical": 67
+    }
+  },
+  {
+    "id": "p_stars_095",
+    "name": "Ousmane Dembélé",
+    "nationality": "France",
+    "category": "stars",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 105,
+    "overall": 86,
+    "attributes": {
+      "pace": 93,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 89,
+      "defending": 36,
+      "physical": 56
+    }
+  },
+  {
+    "id": "p_stars_096",
+    "name": "Kingsley Coman",
+    "nationality": "France",
+    "category": "stars",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "pace": 91,
+      "shooting": 78,
+      "passing": 79,
+      "dribbling": 87,
+      "defending": 30,
+      "physical": 60
+    }
+  },
+  {
+    "id": "p_stars_097",
+    "name": "Serge Gnabry",
+    "nationality": "Germany",
+    "category": "stars",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "pace": 82,
+      "shooting": 83,
+      "passing": 78,
+      "dribbling": 83,
+      "defending": 43,
+      "physical": 69
+    }
+  },
+  {
+    "id": "p_stars_098",
+    "name": "Marcus Thuram",
+    "nationality": "France",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "pace": 86,
+      "shooting": 81,
+      "passing": 74,
+      "dribbling": 82,
+      "defending": 38,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_099",
+    "name": "Loïs Openda",
+    "nationality": "Belgium",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 93,
+      "shooting": 82,
+      "passing": 70,
+      "dribbling": 80,
+      "defending": 31,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_stars_100",
+    "name": "Cody Gakpo",
+    "nationality": "Netherlands",
+    "category": "stars",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "pace": 85,
+      "shooting": 82,
+      "passing": 79,
+      "dribbling": 83,
+      "defending": 42,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_stars_101",
+    "name": "Moussa Diaby",
+    "nationality": "France",
+    "category": "stars",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "pace": 95,
+      "shooting": 76,
+      "passing": 77,
+      "dribbling": 85,
+      "defending": 43,
+      "physical": 55
+    }
+  },
+  {
+    "id": "p_stars_102",
+    "name": "Ademola Lookman",
+    "nationality": "Nigeria",
+    "category": "stars",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 83,
+    "attributes": {
+      "pace": 88,
+      "shooting": 81,
+      "passing": 76,
+      "dribbling": 85,
+      "defending": 35,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_stars_103",
+    "name": "Randal Kolo Muani",
+    "nationality": "France",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 83,
+    "attributes": {
+      "pace": 90,
+      "shooting": 80,
+      "passing": 75,
+      "dribbling": 83,
+      "defending": 41,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_stars_104",
+    "name": "Victor Boniface",
+    "nationality": "Nigeria",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "pace": 82,
+      "shooting": 83,
+      "passing": 73,
+      "dribbling": 82,
+      "defending": 32,
+      "physical": 87
+    }
+  },
+  {
+    "id": "p_stars_105",
+    "name": "Viktor Gyökeres",
+    "nationality": "Sweden",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 88,
+      "shooting": 84,
+      "passing": 72,
+      "dribbling": 80,
+      "defending": 42,
+      "physical": 89
+    }
+  },
+  {
+    "id": "p_stars_106",
+    "name": "Benjamin Šeško",
+    "nationality": "Slovenia",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 83,
+    "attributes": {
+      "pace": 87,
+      "shooting": 81,
+      "passing": 68,
+      "dribbling": 77,
+      "defending": 35,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_107",
+    "name": "Karim Adeyemi",
+    "nationality": "Germany",
+    "category": "stars",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 82,
+    "attributes": {
+      "pace": 96,
+      "shooting": 76,
+      "passing": 70,
+      "dribbling": 82,
+      "defending": 32,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_stars_108",
+    "name": "Donyell Malen",
+    "nationality": "Netherlands",
+    "category": "stars",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 83,
+    "attributes": {
+      "pace": 89,
+      "shooting": 81,
+      "passing": 73,
+      "dribbling": 83,
+      "defending": 32,
+      "physical": 71
+    }
+  },
+  {
+    "id": "p_stars_109",
+    "name": "Gabriel Martinelli",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "pace": 89,
+      "shooting": 79,
+      "passing": 76,
+      "dribbling": 85,
+      "defending": 45,
+      "physical": 70
+    }
+  },
+  {
+    "id": "p_stars_110",
+    "name": "Dejan Kulusevski",
+    "nationality": "Sweden",
+    "category": "stars",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 83,
+    "attributes": {
+      "pace": 78,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 84,
+      "defending": 55,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_stars_111",
+    "name": "Marcus Rashford",
+    "nationality": "England",
+    "category": "stars",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "pace": 88,
+      "shooting": 82,
+      "passing": 76,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 74
+    }
+  },
+  {
+    "id": "p_stars_112",
+    "name": "Richarlison",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 80,
+    "overall": 82,
+    "attributes": {
+      "pace": 81,
+      "shooting": 80,
+      "passing": 73,
+      "dribbling": 80,
+      "defending": 51,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_stars_113",
+    "name": "Gabriel Jesus",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 83,
+    "attributes": {
+      "pace": 83,
+      "shooting": 80,
+      "passing": 77,
+      "dribbling": 86,
+      "defending": 40,
+      "physical": 74
+    }
+  },
+  {
+    "id": "p_stars_114",
+    "name": "Ivan Toney",
+    "nationality": "England",
+    "category": "stars",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 80,
+    "overall": 82,
+    "attributes": {
+      "pace": 77,
+      "shooting": 82,
+      "passing": 72,
+      "dribbling": 77,
+      "defending": 48,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_stars_115",
+    "name": "Diogo Jota",
+    "nationality": "Portugal",
+    "category": "stars",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "pace": 82,
+      "shooting": 84,
+      "passing": 77,
+      "dribbling": 85,
+      "defending": 55,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_younggen_116",
+    "name": "Lamine Yamal",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "pace": 86,
+      "shooting": 76,
+      "passing": 82,
+      "dribbling": 88,
+      "defending": 35,
+      "physical": 55
+    }
+  },
+  {
+    "id": "p_younggen_117",
+    "name": "Endrick",
+    "nationality": "Brazil",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 70,
+    "overall": 79,
+    "attributes": {
+      "pace": 88,
+      "shooting": 81,
+      "passing": 68,
+      "dribbling": 82,
+      "defending": 30,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_younggen_118",
+    "name": "Mathys Tel",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 78,
+    "attributes": {
+      "pace": 86,
+      "shooting": 78,
+      "passing": 68,
+      "dribbling": 81,
+      "defending": 30,
+      "physical": 70
+    }
+  },
+  {
+    "id": "p_younggen_119",
+    "name": "Alejandro Garnacho",
+    "nationality": "Argentina",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 70,
+    "overall": 80,
+    "attributes": {
+      "pace": 87,
+      "shooting": 75,
+      "passing": 70,
+      "dribbling": 83,
+      "defending": 40,
+      "physical": 60
+    }
+  },
+  {
+    "id": "p_younggen_120",
+    "name": "Evan Ferguson",
+    "nationality": "Republic of Ireland",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 78,
+    "attributes": {
+      "pace": 76,
+      "shooting": 80,
+      "passing": 65,
+      "dribbling": 74,
+      "defending": 30,
+      "physical": 81
+    }
+  },
+  {
+    "id": "p_younggen_121",
+    "name": "Sávio",
+    "nationality": "Brazil",
+    "category": "younggen",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 75,
+    "overall": 82,
+    "attributes": {
+      "pace": 89,
+      "shooting": 75,
+      "passing": 78,
+      "dribbling": 86,
+      "defending": 35,
+      "physical": 63
+    }
+  },
+  {
+    "id": "p_younggen_122",
+    "name": "Jérémy Doku",
+    "nationality": "Belgium",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 80,
+    "overall": 83,
+    "attributes": {
+      "pace": 94,
+      "shooting": 72,
+      "passing": 76,
+      "dribbling": 89,
+      "defending": 32,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_younggen_123",
+    "name": "Bradley Barcola",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 75,
+    "overall": 81,
+    "attributes": {
+      "pace": 88,
+      "shooting": 74,
+      "passing": 75,
+      "dribbling": 83,
+      "defending": 42,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_124",
+    "name": "Nico Williams",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "pace": 93,
+      "shooting": 76,
+      "passing": 78,
+      "dribbling": 87,
+      "defending": 38,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_125",
+    "name": "Roony Bardghji",
+    "nationality": "Sweden",
+    "category": "younggen",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 50,
+    "overall": 75,
+    "attributes": {
+      "pace": 82,
+      "shooting": 74,
+      "passing": 68,
+      "dribbling": 78,
+      "defending": 30,
+      "physical": 55
+    }
+  },
+  {
+    "id": "p_younggen_126",
+    "name": "Youssoufa Moukoko",
+    "nationality": "Germany",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 76,
+    "attributes": {
+      "pace": 85,
+      "shooting": 77,
+      "passing": 65,
+      "dribbling": 79,
+      "defending": 28,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_younggen_127",
+    "name": "Vitor Roque",
+    "nationality": "Brazil",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 78,
+    "attributes": {
+      "pace": 86,
+      "shooting": 78,
+      "passing": 68,
+      "dribbling": 80,
+      "defending": 35,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_younggen_128",
+    "name": "Antonio Nusa",
+    "nationality": "Norway",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 76,
+    "attributes": {
+      "pace": 88,
+      "shooting": 71,
+      "passing": 70,
+      "dribbling": 82,
+      "defending": 35,
+      "physical": 60
+    }
+  },
+  {
+    "id": "p_younggen_129",
+    "name": "Francesco Camarda",
+    "nationality": "Italy",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 40,
+    "overall": 71,
+    "attributes": {
+      "pace": 76,
+      "shooting": 74,
+      "passing": 58,
+      "dribbling": 72,
+      "defending": 25,
+      "physical": 62
+    }
+  },
+  {
+    "id": "p_younggen_130",
+    "name": "Marcos Leonardo",
+    "nationality": "Brazil",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 78,
+    "attributes": {
+      "pace": 84,
+      "shooting": 79,
+      "passing": 65,
+      "dribbling": 78,
+      "defending": 32,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_younggen_131",
+    "name": "Elye Wahi",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 79,
+    "attributes": {
+      "pace": 88,
+      "shooting": 79,
+      "passing": 67,
+      "dribbling": 79,
+      "defending": 30,
+      "physical": 70
+    }
+  },
+  {
+    "id": "p_younggen_132",
+    "name": "Ernest Nuamah",
+    "nationality": "Ghana",
+    "category": "younggen",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 78,
+    "attributes": {
+      "pace": 91,
+      "shooting": 72,
+      "passing": 70,
+      "dribbling": 82,
+      "defending": 34,
+      "physical": 66
+    }
+  },
+  {
+    "id": "p_younggen_133",
+    "name": "Johan Bakayoko",
+    "nationality": "Belgium",
+    "category": "younggen",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 70,
+    "overall": 80,
+    "attributes": {
+      "pace": 88,
+      "shooting": 74,
+      "passing": 75,
+      "dribbling": 83,
+      "defending": 35,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_134",
+    "name": "Jamie Gittens",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 77,
+    "attributes": {
+      "pace": 87,
+      "shooting": 70,
+      "passing": 71,
+      "dribbling": 82,
+      "defending": 33,
+      "physical": 61
+    }
+  },
+  {
+    "id": "p_younggen_135",
+    "name": "Oscar Bobb",
+    "nationality": "Norway",
+    "category": "younggen",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 79,
+    "attributes": {
+      "pace": 82,
+      "shooting": 73,
+      "passing": 79,
+      "dribbling": 84,
+      "defending": 42,
+      "physical": 58
+    }
+  },
+  {
+    "id": "p_younggen_136",
+    "name": "Julien Duranville",
+    "nationality": "Belgium",
+    "category": "younggen",
+    "position": "RM",
+    "primary": "FWD",
+    "baseprice": 45,
+    "overall": 73,
+    "attributes": {
+      "pace": 88,
+      "shooting": 65,
+      "passing": 68,
+      "dribbling": 78,
+      "defending": 30,
+      "physical": 55
+    }
+  },
+  {
+    "id": "p_younggen_137",
+    "name": "George Ilenikhena",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 50,
+    "overall": 74,
+    "attributes": {
+      "pace": 82,
+      "shooting": 75,
+      "passing": 59,
+      "dribbling": 73,
+      "defending": 28,
+      "physical": 71
+    }
+  },
+  {
+    "id": "p_younggen_138",
+    "name": "Rayan Cherki",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 79,
+    "attributes": {
+      "pace": 77,
+      "shooting": 74,
+      "passing": 78,
+      "dribbling": 84,
+      "defending": 32,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_younggen_139",
+    "name": "Désiré Doué",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 79,
+    "attributes": {
+      "pace": 81,
+      "shooting": 72,
+      "passing": 77,
+      "dribbling": 83,
+      "defending": 55,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_140",
+    "name": "Brajan Gruda",
+    "nationality": "Germany",
+    "category": "younggen",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 76,
+    "attributes": {
+      "pace": 82,
+      "shooting": 70,
+      "passing": 72,
+      "dribbling": 81,
+      "defending": 38,
+      "physical": 64
+    }
+  },
+  {
+    "id": "p_younggen_141",
+    "name": "Maximilian Beier",
+    "nationality": "Germany",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 65,
+    "overall": 79,
+    "attributes": {
+      "pace": 87,
+      "shooting": 79,
+      "passing": 68,
+      "dribbling": 78,
+      "defending": 40,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_younggen_142",
+    "name": "Kenan Yıldız",
+    "nationality": "Turkey",
+    "category": "younggen",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 60,
+    "overall": 77,
+    "attributes": {
+      "pace": 81,
+      "shooting": 75,
+      "passing": 72,
+      "dribbling": 81,
+      "defending": 35,
+      "physical": 66
+    }
+  },
+  {
+    "id": "p_younggen_143",
+    "name": "Marc Guiu",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 45,
+    "overall": 72,
+    "attributes": {
+      "pace": 76,
+      "shooting": 74,
+      "passing": 60,
+      "dribbling": 71,
+      "defending": 30,
+      "physical": 74
+    }
+  },
+  {
+    "id": "p_younggen_144",
+    "name": "Chido Obi-Martin",
+    "nationality": "Denmark",
+    "category": "younggen",
+    "position": "ST",
+    "primary": "FWD",
+    "baseprice": 35,
+    "overall": 68,
+    "attributes": {
+      "pace": 80,
+      "shooting": 71,
+      "passing": 55,
+      "dribbling": 69,
+      "defending": 25,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_younggen_145",
+    "name": "Mikey Moore",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 40,
+    "overall": 70,
+    "attributes": {
+      "pace": 83,
+      "shooting": 68,
+      "passing": 65,
+      "dribbling": 75,
+      "defending": 32,
+      "physical": 55
+    }
+  },
+  {
+    "id": "p_younggen_146",
+    "name": "Ethan Nwaneri",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "CF",
+    "primary": "FWD",
+    "baseprice": 45,
+    "overall": 71,
+    "attributes": {
+      "pace": 79,
+      "shooting": 68,
+      "passing": 71,
+      "dribbling": 76,
+      "defending": 40,
+      "physical": 58
+    }
+  },
+  {
+    "id": "p_younggen_147",
+    "name": "Wilson Odobert",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 76,
+    "attributes": {
+      "pace": 85,
+      "shooting": 71,
+      "passing": 68,
+      "dribbling": 80,
+      "defending": 35,
+      "physical": 62
+    }
+  },
+  {
+    "id": "p_younggen_148",
+    "name": "Crysencio Summerville",
+    "nationality": "Netherlands",
+    "category": "younggen",
+    "position": "LW",
+    "primary": "FWD",
+    "baseprice": 70,
+    "overall": 80,
+    "attributes": {
+      "pace": 90,
+      "shooting": 76,
+      "passing": 73,
+      "dribbling": 83,
+      "defending": 40,
+      "physical": 58
+    }
+  },
+  {
+    "id": "p_younggen_149",
+    "name": "Cole Palmer",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 95,
+    "overall": 86,
+    "attributes": {
+      "pace": 79,
+      "shooting": 85,
+      "passing": 86,
+      "dribbling": 84,
+      "defending": 55,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_150",
+    "name": "Yankuba Minteh",
+    "nationality": "Gambia",
+    "category": "younggen",
+    "position": "RW",
+    "primary": "FWD",
+    "baseprice": 55,
+    "overall": 76,
+    "attributes": {
+      "pace": 88,
+      "shooting": 72,
+      "passing": 66,
+      "dribbling": 78,
+      "defending": 40,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_icons_151",
+    "name": "Zinedine Zidane",
+    "nationality": "France",
+    "category": "icons",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 150,
+    "overall": 96,
+    "attributes": {
+      "pace": 81,
+      "shooting": 85,
+      "passing": 96,
+      "dribbling": 95,
+      "defending": 55,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_icons_152",
+    "name": "Andrés Iniesta",
+    "nationality": "Spain",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 140,
+    "overall": 94,
+    "attributes": {
+      "pace": 76,
+      "shooting": 74,
+      "passing": 95,
+      "dribbling": 96,
+      "defending": 60,
+      "physical": 63
+    }
+  },
+  {
+    "id": "p_icons_153",
+    "name": "Xavi",
+    "nationality": "Spain",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 140,
+    "overall": 94,
+    "attributes": {
+      "pace": 74,
+      "shooting": 76,
+      "passing": 96,
+      "dribbling": 93,
+      "defending": 64,
+      "physical": 66
+    }
+  },
+  {
+    "id": "p_icons_154",
+    "name": "Lothar Matthäus",
+    "nationality": "Germany",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 135,
+    "overall": 93,
+    "attributes": {
+      "pace": 89,
+      "shooting": 89,
+      "passing": 90,
+      "dribbling": 82,
+      "defending": 90,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_icons_155",
+    "name": "Ruud Gullit",
+    "nationality": "Netherlands",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 145,
+    "overall": 93,
+    "attributes": {
+      "pace": 86,
+      "shooting": 88,
+      "passing": 88,
+      "dribbling": 87,
+      "defending": 80,
+      "physical": 89
+    }
+  },
+  {
+    "id": "p_icons_156",
+    "name": "Patrick Vieira",
+    "nationality": "France",
+    "category": "icons",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 130,
+    "overall": 91,
+    "attributes": {
+      "pace": 84,
+      "shooting": 75,
+      "passing": 82,
+      "dribbling": 83,
+      "defending": 90,
+      "physical": 92
+    }
+  },
+  {
+    "id": "p_icons_157",
+    "name": "Ronaldinho",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 145,
+    "overall": 94,
+    "attributes": {
+      "pace": 92,
+      "shooting": 90,
+      "passing": 91,
+      "dribbling": 95,
+      "defending": 38,
+      "physical": 81
+    }
+  },
+  {
+    "id": "p_icons_158",
+    "name": "Kaká",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 125,
+    "overall": 92,
+    "attributes": {
+      "pace": 91,
+      "shooting": 88,
+      "passing": 89,
+      "dribbling": 92,
+      "defending": 44,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_icons_159",
+    "name": "Paul Scholes",
+    "nationality": "England",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 90,
+    "attributes": {
+      "pace": 72,
+      "shooting": 87,
+      "passing": 93,
+      "dribbling": 81,
+      "defending": 62,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_icons_160",
+    "name": "Steven Gerrard",
+    "nationality": "England",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 120,
+    "overall": 91,
+    "attributes": {
+      "pace": 77,
+      "shooting": 90,
+      "passing": 90,
+      "dribbling": 82,
+      "defending": 77,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_icons_161",
+    "name": "Frank Lampard",
+    "nationality": "England",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 90,
+    "attributes": {
+      "pace": 74,
+      "shooting": 90,
+      "passing": 88,
+      "dribbling": 81,
+      "defending": 70,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_icons_162",
+    "name": "Andrea Pirlo",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 125,
+    "overall": 92,
+    "attributes": {
+      "pace": 73,
+      "shooting": 81,
+      "passing": 95,
+      "dribbling": 90,
+      "defending": 68,
+      "physical": 66
+    }
+  },
+  {
+    "id": "p_icons_163",
+    "name": "Claude Makélélé",
+    "nationality": "France",
+    "category": "icons",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 110,
+    "overall": 90,
+    "attributes": {
+      "pace": 80,
+      "shooting": 50,
+      "passing": 79,
+      "dribbling": 80,
+      "defending": 90,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_icons_164",
+    "name": "Clarence Seedorf",
+    "nationality": "Netherlands",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 120,
+    "overall": 91,
+    "attributes": {
+      "pace": 81,
+      "shooting": 88,
+      "passing": 89,
+      "dribbling": 87,
+      "defending": 72,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_icons_165",
+    "name": "Frank Rijkaard",
+    "nationality": "Netherlands",
+    "category": "icons",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 90,
+    "attributes": {
+      "pace": 76,
+      "shooting": 72,
+      "passing": 84,
+      "dribbling": 81,
+      "defending": 90,
+      "physical": 87
+    }
+  },
+  {
+    "id": "p_icons_166",
+    "name": "Sócrates",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 91,
+    "attributes": {
+      "pace": 76,
+      "shooting": 90,
+      "passing": 92,
+      "dribbling": 90,
+      "defending": 40,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_icons_167",
+    "name": "Zico",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 130,
+    "overall": 93,
+    "attributes": {
+      "pace": 89,
+      "shooting": 92,
+      "passing": 93,
+      "dribbling": 92,
+      "defending": 48,
+      "physical": 71
+    }
+  },
+  {
+    "id": "p_icons_168",
+    "name": "Rui Costa",
+    "nationality": "Portugal",
+    "category": "icons",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 90,
+    "attributes": {
+      "pace": 82,
+      "shooting": 81,
+      "passing": 88,
+      "dribbling": 86,
+      "defending": 40,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_icons_169",
+    "name": "Michael Ballack",
+    "nationality": "Germany",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 91,
+    "attributes": {
+      "pace": 78,
+      "shooting": 89,
+      "passing": 87,
+      "dribbling": 82,
+      "defending": 81,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_icons_170",
+    "name": "Michael Essien",
+    "nationality": "Ghana",
+    "category": "icons",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 110,
+    "overall": 90,
+    "attributes": {
+      "pace": 85,
+      "shooting": 76,
+      "passing": 81,
+      "dribbling": 82,
+      "defending": 88,
+      "physical": 90
+    }
+  },
+  {
+    "id": "p_icons_171",
+    "name": "Roy Keane",
+    "nationality": "Republic of Ireland",
+    "category": "icons",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 90,
+    "attributes": {
+      "pace": 75,
+      "shooting": 71,
+      "passing": 84,
+      "dribbling": 76,
+      "defending": 88,
+      "physical": 89
+    }
+  },
+  {
+    "id": "p_icons_172",
+    "name": "Juan Sebastián Verón",
+    "nationality": "Argentina",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 90,
+    "attributes": {
+      "pace": 76,
+      "shooting": 85,
+      "passing": 89,
+      "dribbling": 83,
+      "defending": 75,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_icons_173",
+    "name": "Juan Román Riquelme",
+    "nationality": "Argentina",
+    "category": "icons",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 110,
+    "overall": 91,
+    "attributes": {
+      "pace": 69,
+      "shooting": 86,
+      "passing": 93,
+      "dribbling": 92,
+      "defending": 35,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_icons_174",
+    "name": "Gheorghe Hagi",
+    "nationality": "Romania",
+    "category": "icons",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 110,
+    "overall": 91,
+    "attributes": {
+      "pace": 83,
+      "shooting": 89,
+      "passing": 90,
+      "dribbling": 91,
+      "defending": 41,
+      "physical": 70
+    }
+  },
+  {
+    "id": "p_icons_175",
+    "name": "Michael Laudrup",
+    "nationality": "Denmark",
+    "category": "icons",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 91,
+    "attributes": {
+      "pace": 86,
+      "shooting": 79,
+      "passing": 91,
+      "dribbling": 93,
+      "defending": 40,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_icons_176",
+    "name": "Deco",
+    "nationality": "Portugal",
+    "category": "icons",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 90,
+    "attributes": {
+      "pace": 79,
+      "shooting": 81,
+      "passing": 90,
+      "dribbling": 90,
+      "defending": 58,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_icons_177",
+    "name": "Emmanuel Petit",
+    "nationality": "France",
+    "category": "icons",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 90,
+    "attributes": {
+      "pace": 77,
+      "shooting": 79,
+      "passing": 81,
+      "dribbling": 77,
+      "defending": 87,
+      "physical": 88
+    }
+  },
+  {
+    "id": "p_icons_178",
+    "name": "Gennaro Gattuso",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 100,
+    "overall": 89,
+    "attributes": {
+      "pace": 73,
+      "shooting": 63,
+      "passing": 73,
+      "dribbling": 73,
+      "defending": 89,
+      "physical": 90
+    }
+  },
+  {
+    "id": "p_icons_179",
+    "name": "Pavel Nedvěd",
+    "nationality": "Czech Republic",
+    "category": "icons",
+    "position": "LM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 91,
+    "attributes": {
+      "pace": 84,
+      "shooting": 87,
+      "passing": 89,
+      "dribbling": 89,
+      "defending": 61,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_icons_180",
+    "name": "Luís Figo",
+    "nationality": "Portugal",
+    "category": "icons",
+    "position": "RM",
+    "primary": "MID",
+    "baseprice": 120,
+    "overall": 92,
+    "attributes": {
+      "pace": 88,
+      "shooting": 85,
+      "passing": 89,
+      "dribbling": 92,
+      "defending": 41,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_endofera_181",
+    "name": "Luka Modrić",
+    "nationality": "Croatia",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 91,
+    "attributes": {
+      "pace": 72,
+      "shooting": 80,
+      "passing": 93,
+      "dribbling": 91,
+      "defending": 72,
+      "physical": 66
+    }
+  },
+  {
+    "id": "p_endofera_182",
+    "name": "Toni Kroos",
+    "nationality": "Germany",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 90,
+    "attributes": {
+      "pace": 55,
+      "shooting": 84,
+      "passing": 95,
+      "dribbling": 81,
+      "defending": 70,
+      "physical": 71
+    }
+  },
+  {
+    "id": "p_endofera_183",
+    "name": "Kevin De Bruyne",
+    "nationality": "Belgium",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 125,
+    "overall": 91,
+    "attributes": {
+      "pace": 74,
+      "shooting": 85,
+      "passing": 94,
+      "dribbling": 87,
+      "defending": 65,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_endofera_184",
+    "name": "Casemiro",
+    "nationality": "Brazil",
+    "category": "endofera",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 89,
+    "attributes": {
+      "pace": 63,
+      "shooting": 73,
+      "passing": 75,
+      "dribbling": 72,
+      "defending": 88,
+      "physical": 89
+    }
+  },
+  {
+    "id": "p_endofera_185",
+    "name": "N'Golo Kanté",
+    "nationality": "France",
+    "category": "endofera",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 89,
+    "attributes": {
+      "pace": 78,
+      "shooting": 66,
+      "passing": 75,
+      "dribbling": 81,
+      "defending": 87,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_endofera_186",
+    "name": "Sergio Busquets",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 88,
+    "attributes": {
+      "pace": 42,
+      "shooting": 62,
+      "passing": 86,
+      "dribbling": 79,
+      "defending": 82,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_endofera_187",
+    "name": "Thiago Alcântara",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 95,
+    "overall": 86,
+    "attributes": {
+      "pace": 61,
+      "shooting": 72,
+      "passing": 88,
+      "dribbling": 90,
+      "defending": 68,
+      "physical": 63
+    }
+  },
+  {
+    "id": "p_endofera_188",
+    "name": "Marco Verratti",
+    "nationality": "Italy",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 100,
+    "overall": 87,
+    "attributes": {
+      "pace": 62,
+      "shooting": 61,
+      "passing": 87,
+      "dribbling": 91,
+      "defending": 79,
+      "physical": 67
+    }
+  },
+  {
+    "id": "p_endofera_189",
+    "name": "Paul Pogba",
+    "nationality": "France",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 95,
+    "overall": 86,
+    "attributes": {
+      "pace": 71,
+      "shooting": 80,
+      "passing": 86,
+      "dribbling": 85,
+      "defending": 65,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_endofera_190",
+    "name": "Ivan Rakitić",
+    "nationality": "Croatia",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "pace": 60,
+      "shooting": 81,
+      "passing": 86,
+      "dribbling": 80,
+      "defending": 71,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_endofera_191",
+    "name": "Christian Eriksen",
+    "nationality": "Denmark",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "pace": 61,
+      "shooting": 78,
+      "passing": 88,
+      "dribbling": 81,
+      "defending": 53,
+      "physical": 53
+    }
+  },
+  {
+    "id": "p_endofera_192",
+    "name": "Miralem Pjanić",
+    "nationality": "Bosnia and Herzegovina",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 80,
+    "overall": 83,
+    "attributes": {
+      "pace": 64,
+      "shooting": 74,
+      "passing": 86,
+      "dribbling": 83,
+      "defending": 70,
+      "physical": 64
+    }
+  },
+  {
+    "id": "p_endofera_193",
+    "name": "Jordan Henderson",
+    "nationality": "England",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 75,
+    "overall": 83,
+    "attributes": {
+      "pace": 63,
+      "shooting": 72,
+      "passing": 83,
+      "dribbling": 77,
+      "defending": 78,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_endofera_194",
+    "name": "Fabinho",
+    "nationality": "Brazil",
+    "category": "endofera",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 90,
+    "overall": 86,
+    "attributes": {
+      "pace": 66,
+      "shooting": 69,
+      "passing": 78,
+      "dribbling": 76,
+      "defending": 85,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_endofera_195",
+    "name": "Leon Goretzka",
+    "nationality": "Germany",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 95,
+    "overall": 86,
+    "attributes": {
+      "pace": 81,
+      "shooting": 82,
+      "passing": 83,
+      "dribbling": 83,
+      "defending": 80,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_endofera_196",
+    "name": "Koke",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "pace": 66,
+      "shooting": 73,
+      "passing": 85,
+      "dribbling": 81,
+      "defending": 76,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_endofera_197",
+    "name": "Dani Parejo",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 85,
+    "overall": 85,
+    "attributes": {
+      "pace": 50,
+      "shooting": 83,
+      "passing": 89,
+      "dribbling": 80,
+      "defending": 70,
+      "physical": 69
+    }
+  },
+  {
+    "id": "p_endofera_198",
+    "name": "Isco",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 80,
+    "overall": 83,
+    "attributes": {
+      "pace": 68,
+      "shooting": 76,
+      "passing": 83,
+      "dribbling": 88,
+      "defending": 58,
+      "physical": 61
+    }
+  },
+  {
+    "id": "p_endofera_199",
+    "name": "James Rodríguez",
+    "nationality": "Colombia",
+    "category": "endofera",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 80,
+    "overall": 83,
+    "attributes": {
+      "pace": 53,
+      "shooting": 86,
+      "passing": 86,
+      "dribbling": 82,
+      "defending": 50,
+      "physical": 64
+    }
+  },
+  {
+    "id": "p_endofera_200",
+    "name": "Philippe Coutinho",
+    "nationality": "Brazil",
+    "category": "endofera",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 80,
+    "overall": 82,
+    "attributes": {
+      "pace": 69,
+      "shooting": 79,
+      "passing": 81,
+      "dribbling": 87,
+      "defending": 51,
+      "physical": 59
+    }
+  },
+  {
+    "id": "p_endofera_201",
+    "name": "David Silva",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 85,
+    "overall": 85,
+    "attributes": {
+      "pace": 60,
+      "shooting": 74,
+      "passing": 88,
+      "dribbling": 87,
+      "defending": 52,
+      "physical": 55
+    }
+  },
+  {
+    "id": "p_endofera_202",
+    "name": "Georginio Wijnaldum",
+    "nationality": "Netherlands",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 75,
+    "overall": 82,
+    "attributes": {
+      "pace": 76,
+      "shooting": 74,
+      "passing": 79,
+      "dribbling": 84,
+      "defending": 76,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_endofera_203",
+    "name": "Jorginho",
+    "nationality": "Italy",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "pace": 54,
+      "shooting": 67,
+      "passing": 86,
+      "dribbling": 81,
+      "defending": 73,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_endofera_204",
+    "name": "Marcelo Brozović",
+    "nationality": "Croatia",
+    "category": "endofera",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 85,
+    "overall": 85,
+    "attributes": {
+      "pace": 69,
+      "shooting": 73,
+      "passing": 82,
+      "dribbling": 80,
+      "defending": 80,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_endofera_205",
+    "name": "Filip Kostić",
+    "nationality": "Serbia",
+    "category": "endofera",
+    "position": "LM",
+    "primary": "MID",
+    "baseprice": 80,
+    "overall": 83,
+    "attributes": {
+      "pace": 84,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 81,
+      "defending": 68,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_endofera_206",
+    "name": "Juan Cuadrado",
+    "nationality": "Colombia",
+    "category": "endofera",
+    "position": "RM",
+    "primary": "MID",
+    "baseprice": 75,
+    "overall": 82,
+    "attributes": {
+      "pace": 88,
+      "shooting": 74,
+      "passing": 79,
+      "dribbling": 86,
+      "defending": 74,
+      "physical": 71
+    }
+  },
+  {
+    "id": "p_endofera_207",
+    "name": "Saúl",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 75,
+    "overall": 82,
+    "attributes": {
+      "pace": 68,
+      "shooting": 76,
+      "passing": 79,
+      "dribbling": 80,
+      "defending": 76,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_endofera_208",
+    "name": "Adrien Rabiot",
+    "nationality": "France",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "pace": 74,
+      "shooting": 76,
+      "passing": 81,
+      "dribbling": 80,
+      "defending": 80,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_endofera_209",
+    "name": "Youri Tielemans",
+    "nationality": "Belgium",
+    "category": "endofera",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 75,
+    "overall": 82,
+    "attributes": {
+      "pace": 61,
+      "shooting": 79,
+      "passing": 84,
+      "dribbling": 80,
+      "defending": 70,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_endofera_210",
+    "name": "Granit Xhaka",
+    "nationality": "Switzerland",
+    "category": "endofera",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 80,
+    "overall": 83,
+    "attributes": {
+      "pace": 50,
+      "shooting": 76,
+      "passing": 85,
+      "dribbling": 74,
+      "defending": 74,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_stars_211",
+    "name": "Rodri",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 130,
+    "overall": 91,
+    "attributes": {
+      "pace": 61,
+      "shooting": 77,
+      "passing": 87,
+      "dribbling": 81,
+      "defending": 86,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_stars_212",
+    "name": "Jude Bellingham",
+    "nationality": "England",
+    "category": "stars",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 130,
+    "overall": 90,
+    "attributes": {
+      "pace": 82,
+      "shooting": 84,
+      "passing": 85,
+      "dribbling": 88,
+      "defending": 78,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_213",
+    "name": "Federico Valverde",
+    "nationality": "Uruguay",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 120,
+    "overall": 89,
+    "attributes": {
+      "pace": 89,
+      "shooting": 83,
+      "passing": 85,
+      "dribbling": 84,
+      "defending": 79,
+      "physical": 81
+    }
+  },
+  {
+    "id": "p_stars_214",
+    "name": "Martin Ødegaard",
+    "nationality": "Norway",
+    "category": "stars",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 120,
+    "overall": 89,
+    "attributes": {
+      "pace": 76,
+      "shooting": 80,
+      "passing": 89,
+      "dribbling": 89,
+      "defending": 58,
+      "physical": 66
+    }
+  },
+  {
+    "id": "p_stars_215",
+    "name": "Declan Rice",
+    "nationality": "England",
+    "category": "stars",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 88,
+    "attributes": {
+      "pace": 75,
+      "shooting": 71,
+      "passing": 83,
+      "dribbling": 79,
+      "defending": 85,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_stars_216",
+    "name": "Nicolò Barella",
+    "nationality": "Italy",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 87,
+    "attributes": {
+      "pace": 80,
+      "shooting": 76,
+      "passing": 84,
+      "dribbling": 86,
+      "defending": 78,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_stars_217",
+    "name": "Pedri",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 110,
+    "overall": 86,
+    "attributes": {
+      "pace": 78,
+      "shooting": 70,
+      "passing": 87,
+      "dribbling": 88,
+      "defending": 68,
+      "physical": 63
+    }
+  },
+  {
+    "id": "p_stars_218",
+    "name": "Aurélien Tchouaméni",
+    "nationality": "France",
+    "category": "stars",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 85,
+    "attributes": {
+      "pace": 73,
+      "shooting": 70,
+      "passing": 81,
+      "dribbling": 78,
+      "defending": 82,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_stars_219",
+    "name": "Eduardo Camavinga",
+    "nationality": "France",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 100,
+    "overall": 85,
+    "attributes": {
+      "pace": 80,
+      "shooting": 68,
+      "passing": 81,
+      "dribbling": 84,
+      "defending": 78,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_stars_220",
+    "name": "Alexis Mac Allister",
+    "nationality": "Argentina",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 86,
+    "attributes": {
+      "pace": 72,
+      "shooting": 79,
+      "passing": 85,
+      "dribbling": 84,
+      "defending": 76,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_stars_221",
+    "name": "Enzo Fernández",
+    "nationality": "Argentina",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 100,
+    "overall": 85,
+    "attributes": {
+      "pace": 67,
+      "shooting": 76,
+      "passing": 86,
+      "dribbling": 81,
+      "defending": 73,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_stars_222",
+    "name": "Bruno Guimarães",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 110,
+    "overall": 86,
+    "attributes": {
+      "pace": 72,
+      "shooting": 73,
+      "passing": 85,
+      "dribbling": 85,
+      "defending": 80,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_stars_223",
+    "name": "Dominik Szoboszlai",
+    "nationality": "Hungary",
+    "category": "stars",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 85,
+    "attributes": {
+      "pace": 83,
+      "shooting": 84,
+      "passing": 85,
+      "dribbling": 83,
+      "defending": 61,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_stars_224",
+    "name": "James Maddison",
+    "nationality": "England",
+    "category": "stars",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 85,
+    "attributes": {
+      "pace": 74,
+      "shooting": 81,
+      "passing": 87,
+      "dribbling": 85,
+      "defending": 54,
+      "physical": 61
+    }
+  },
+  {
+    "id": "p_stars_225",
+    "name": "Bruno Fernandes",
+    "nationality": "Portugal",
+    "category": "stars",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 120,
+    "overall": 88,
+    "attributes": {
+      "pace": 74,
+      "shooting": 86,
+      "passing": 90,
+      "dribbling": 84,
+      "defending": 70,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_stars_226",
+    "name": "Bernardo Silva",
+    "nationality": "Portugal",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 120,
+    "overall": 89,
+    "attributes": {
+      "pace": 76,
+      "shooting": 78,
+      "passing": 86,
+      "dribbling": 92,
+      "defending": 62,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_stars_227",
+    "name": "Hakan Çalhanoğlu",
+    "nationality": "Turkey",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 110,
+    "overall": 87,
+    "attributes": {
+      "pace": 66,
+      "shooting": 83,
+      "passing": 88,
+      "dribbling": 84,
+      "defending": 75,
+      "physical": 70
+    }
+  },
+  {
+    "id": "p_stars_228",
+    "name": "Frenkie de Jong",
+    "nationality": "Netherlands",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 87,
+    "attributes": {
+      "pace": 81,
+      "shooting": 69,
+      "passing": 86,
+      "dribbling": 88,
+      "defending": 77,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_stars_229",
+    "name": "Joshua Kimmich",
+    "nationality": "Germany",
+    "category": "stars",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 88,
+    "attributes": {
+      "pace": 70,
+      "shooting": 72,
+      "passing": 88,
+      "dribbling": 83,
+      "defending": 82,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_stars_230",
+    "name": "João Palhinha",
+    "nationality": "Portugal",
+    "category": "stars",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 85,
+    "attributes": {
+      "pace": 56,
+      "shooting": 65,
+      "passing": 74,
+      "dribbling": 73,
+      "defending": 85,
+      "physical": 88
+    }
+  },
+  {
+    "id": "p_stars_231",
+    "name": "Sandro Tonali",
+    "nationality": "Italy",
+    "category": "stars",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 86,
+    "attributes": {
+      "pace": 83,
+      "shooting": 73,
+      "passing": 82,
+      "dribbling": 80,
+      "defending": 81,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_232",
+    "name": "Sergej Milinković-Savić",
+    "nationality": "Serbia",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 105,
+    "overall": 86,
+    "attributes": {
+      "pace": 67,
+      "shooting": 80,
+      "passing": 82,
+      "dribbling": 82,
+      "defending": 79,
+      "physical": 87
+    }
+  },
+  {
+    "id": "p_stars_233",
+    "name": "Luis Alberto",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 62,
+      "shooting": 75,
+      "passing": 87,
+      "dribbling": 84,
+      "defending": 55,
+      "physical": 58
+    }
+  },
+  {
+    "id": "p_stars_234",
+    "name": "Mikel Merino",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 71,
+      "shooting": 76,
+      "passing": 81,
+      "dribbling": 82,
+      "defending": 81,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_stars_235",
+    "name": "Brais Méndez",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "RM",
+    "primary": "MID",
+    "baseprice": 90,
+    "overall": 83,
+    "attributes": {
+      "pace": 74,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 82,
+      "defending": 64,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_stars_236",
+    "name": "Conor Gallagher",
+    "nationality": "England",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 76,
+      "shooting": 76,
+      "passing": 78,
+      "dribbling": 81,
+      "defending": 76,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_stars_237",
+    "name": "Lucas Paquetá",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 100,
+    "overall": 85,
+    "attributes": {
+      "pace": 72,
+      "shooting": 78,
+      "passing": 83,
+      "dribbling": 87,
+      "defending": 72,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_stars_238",
+    "name": "Douglas Luiz",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 69,
+      "shooting": 74,
+      "passing": 81,
+      "dribbling": 81,
+      "defending": 78,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_stars_239",
+    "name": "Martín Zubimendi",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 68,
+      "shooting": 67,
+      "passing": 80,
+      "dribbling": 78,
+      "defending": 81,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_stars_240",
+    "name": "Nicolás Barella",
+    "nationality": "Italy",
+    "category": "stars",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 115,
+    "overall": 87,
+    "attributes": {
+      "pace": 80,
+      "shooting": 76,
+      "passing": 84,
+      "dribbling": 86,
+      "defending": 78,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_younggen_241",
+    "name": "Jamal Musiala",
+    "nationality": "Germany",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 110,
+    "overall": 87,
+    "attributes": {
+      "pace": 85,
+      "shooting": 80,
+      "passing": 81,
+      "dribbling": 92,
+      "defending": 58,
+      "physical": 63
+    }
+  },
+  {
+    "id": "p_younggen_242",
+    "name": "Florian Wirtz",
+    "nationality": "Germany",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 110,
+    "overall": 87,
+    "attributes": {
+      "pace": 82,
+      "shooting": 80,
+      "passing": 87,
+      "dribbling": 88,
+      "defending": 54,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_younggen_243",
+    "name": "Gavi",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 100,
+    "overall": 85,
+    "attributes": {
+      "pace": 75,
+      "shooting": 68,
+      "passing": 82,
+      "dribbling": 86,
+      "defending": 68,
+      "physical": 70
+    }
+  },
+  {
+    "id": "p_younggen_244",
+    "name": "Warren Zaïre-Emery",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 90,
+    "overall": 83,
+    "attributes": {
+      "pace": 78,
+      "shooting": 70,
+      "passing": 81,
+      "dribbling": 82,
+      "defending": 78,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_younggen_245",
+    "name": "João Neves",
+    "nationality": "Portugal",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 90,
+    "overall": 83,
+    "attributes": {
+      "pace": 75,
+      "shooting": 68,
+      "passing": 80,
+      "dribbling": 82,
+      "defending": 77,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_younggen_246",
+    "name": "Kobbie Mainoo",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 85,
+    "overall": 82,
+    "attributes": {
+      "pace": 74,
+      "shooting": 70,
+      "passing": 78,
+      "dribbling": 83,
+      "defending": 72,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_younggen_247",
+    "name": "Arda Güler",
+    "nationality": "Turkey",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 80,
+    "overall": 81,
+    "attributes": {
+      "pace": 76,
+      "shooting": 77,
+      "passing": 82,
+      "dribbling": 84,
+      "defending": 45,
+      "physical": 60
+    }
+  },
+  {
+    "id": "p_younggen_248",
+    "name": "Xavi Simons",
+    "nationality": "Netherlands",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 100,
+    "overall": 84,
+    "attributes": {
+      "pace": 86,
+      "shooting": 80,
+      "passing": 82,
+      "dribbling": 86,
+      "defending": 55,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_249",
+    "name": "Arthur Vermeeren",
+    "nationality": "Belgium",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 75,
+    "overall": 79,
+    "attributes": {
+      "pace": 74,
+      "shooting": 65,
+      "passing": 81,
+      "dribbling": 79,
+      "defending": 72,
+      "physical": 70
+    }
+  },
+  {
+    "id": "p_younggen_250",
+    "name": "Adam Wharton",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 75,
+    "overall": 79,
+    "attributes": {
+      "pace": 70,
+      "shooting": 62,
+      "passing": 81,
+      "dribbling": 77,
+      "defending": 76,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_younggen_251",
+    "name": "Stefan Bajcetic",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 70,
+    "overall": 77,
+    "attributes": {
+      "pace": 72,
+      "shooting": 60,
+      "passing": 76,
+      "dribbling": 77,
+      "defending": 75,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_252",
+    "name": "Lewis Miley",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 65,
+    "overall": 76,
+    "attributes": {
+      "pace": 68,
+      "shooting": 64,
+      "passing": 75,
+      "dribbling": 75,
+      "defending": 70,
+      "physical": 66
+    }
+  },
+  {
+    "id": "p_younggen_253",
+    "name": "Archie Gray",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 70,
+    "overall": 77,
+    "attributes": {
+      "pace": 78,
+      "shooting": 62,
+      "passing": 74,
+      "dribbling": 76,
+      "defending": 72,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_254",
+    "name": "Martin Baturina",
+    "nationality": "Croatia",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 75,
+    "overall": 79,
+    "attributes": {
+      "pace": 80,
+      "shooting": 72,
+      "passing": 79,
+      "dribbling": 83,
+      "defending": 45,
+      "physical": 62
+    }
+  },
+  {
+    "id": "p_younggen_255",
+    "name": "Oscar Gloukh",
+    "nationality": "Israel",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 75,
+    "overall": 78,
+    "attributes": {
+      "pace": 79,
+      "shooting": 73,
+      "passing": 77,
+      "dribbling": 82,
+      "defending": 38,
+      "physical": 60
+    }
+  },
+  {
+    "id": "p_younggen_256",
+    "name": "Bilal El Khannouss",
+    "nationality": "Morocco",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 70,
+    "overall": 78,
+    "attributes": {
+      "pace": 76,
+      "shooting": 70,
+      "passing": 78,
+      "dribbling": 80,
+      "defending": 45,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_younggen_257",
+    "name": "Roméo Lavia",
+    "nationality": "Belgium",
+    "category": "younggen",
+    "position": "CDM",
+    "primary": "MID",
+    "baseprice": 80,
+    "overall": 79,
+    "attributes": {
+      "pace": 70,
+      "shooting": 55,
+      "passing": 76,
+      "dribbling": 78,
+      "defending": 78,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_younggen_258",
+    "name": "Harvey Elliott",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 85,
+    "overall": 80,
+    "attributes": {
+      "pace": 82,
+      "shooting": 75,
+      "passing": 79,
+      "dribbling": 83,
+      "defending": 55,
+      "physical": 62
+    }
+  },
+  {
+    "id": "p_younggen_259",
+    "name": "Fabio Miretti",
+    "nationality": "Italy",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 65,
+    "overall": 76,
+    "attributes": {
+      "pace": 74,
+      "shooting": 68,
+      "passing": 77,
+      "dribbling": 78,
+      "defending": 65,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_260",
+    "name": "Cesare Casadei",
+    "nationality": "Italy",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 65,
+    "overall": 75,
+    "attributes": {
+      "pace": 72,
+      "shooting": 73,
+      "passing": 72,
+      "dribbling": 75,
+      "defending": 68,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_younggen_261",
+    "name": "Cher Ndour",
+    "nationality": "Italy",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 55,
+    "overall": 73,
+    "attributes": {
+      "pace": 68,
+      "shooting": 65,
+      "passing": 71,
+      "dribbling": 72,
+      "defending": 62,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_younggen_262",
+    "name": "Jobe Bellingham",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 60,
+    "overall": 74,
+    "attributes": {
+      "pace": 74,
+      "shooting": 70,
+      "passing": 71,
+      "dribbling": 76,
+      "defending": 60,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_younggen_263",
+    "name": "Lucas Bergvall",
+    "nationality": "Sweden",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 60,
+    "overall": 73,
+    "attributes": {
+      "pace": 76,
+      "shooting": 66,
+      "passing": 73,
+      "dribbling": 77,
+      "defending": 62,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_264",
+    "name": "Claudio Echeverri",
+    "nationality": "Argentina",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 65,
+    "overall": 75,
+    "attributes": {
+      "pace": 84,
+      "shooting": 70,
+      "passing": 74,
+      "dribbling": 83,
+      "defending": 35,
+      "physical": 55
+    }
+  },
+  {
+    "id": "p_younggen_265",
+    "name": "Kendry Páez",
+    "nationality": "Ecuador",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 60,
+    "overall": 74,
+    "attributes": {
+      "pace": 82,
+      "shooting": 68,
+      "passing": 72,
+      "dribbling": 80,
+      "defending": 38,
+      "physical": 56
+    }
+  },
+  {
+    "id": "p_younggen_266",
+    "name": "Sverre Nypan",
+    "nationality": "Norway",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 55,
+    "overall": 72,
+    "attributes": {
+      "pace": 76,
+      "shooting": 66,
+      "passing": 70,
+      "dribbling": 75,
+      "defending": 55,
+      "physical": 62
+    }
+  },
+  {
+    "id": "p_younggen_267",
+    "name": "Franco Mastantuono",
+    "nationality": "Argentina",
+    "category": "younggen",
+    "position": "CAM",
+    "primary": "MID",
+    "baseprice": 55,
+    "overall": 72,
+    "attributes": {
+      "pace": 78,
+      "shooting": 71,
+      "passing": 72,
+      "dribbling": 77,
+      "defending": 32,
+      "physical": 58
+    }
+  },
+  {
+    "id": "p_younggen_268",
+    "name": "Assan Ouédraogo",
+    "nationality": "Germany",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 60,
+    "overall": 73,
+    "attributes": {
+      "pace": 77,
+      "shooting": 68,
+      "passing": 70,
+      "dribbling": 79,
+      "defending": 60,
+      "physical": 74
+    }
+  },
+  {
+    "id": "p_younggen_269",
+    "name": "Ayyoub Bouaddi",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 50,
+    "overall": 70,
+    "attributes": {
+      "pace": 72,
+      "shooting": 62,
+      "passing": 73,
+      "dribbling": 74,
+      "defending": 65,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_270",
+    "name": "Ethan Mbappé",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "CM",
+    "primary": "MID",
+    "baseprice": 50,
+    "overall": 70,
+    "attributes": {
+      "pace": 76,
+      "shooting": 64,
+      "passing": 72,
+      "dribbling": 75,
+      "defending": 60,
+      "physical": 64
+    }
+  },
+  {
+    "id": "p_icons_271",
+    "name": "Paolo Maldini",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 150,
+    "overall": 95,
+    "attributes": {
+      "pace": 86,
+      "shooting": 56,
+      "passing": 75,
+      "dribbling": 74,
+      "defending": 96,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_icons_272",
+    "name": "Franz Beckenbauer",
+    "nationality": "Germany",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 145,
+    "overall": 94,
+    "attributes": {
+      "pace": 85,
+      "shooting": 76,
+      "passing": 86,
+      "dribbling": 83,
+      "defending": 95,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_icons_273",
+    "name": "Franco Baresi",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 140,
+    "overall": 93,
+    "attributes": {
+      "pace": 80,
+      "shooting": 49,
+      "passing": 76,
+      "dribbling": 72,
+      "defending": 95,
+      "physical": 81
+    }
+  },
+  {
+    "id": "p_icons_274",
+    "name": "Roberto Carlos",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 135,
+    "overall": 92,
+    "attributes": {
+      "pace": 93,
+      "shooting": 85,
+      "passing": 83,
+      "dribbling": 84,
+      "defending": 85,
+      "physical": 87
+    }
+  },
+  {
+    "id": "p_icons_275",
+    "name": "Cafu",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 135,
+    "overall": 93,
+    "attributes": {
+      "pace": 92,
+      "shooting": 68,
+      "passing": 85,
+      "dribbling": 86,
+      "defending": 87,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_icons_276",
+    "name": "Fabio Cannavaro",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 130,
+    "overall": 92,
+    "attributes": {
+      "pace": 82,
+      "shooting": 43,
+      "passing": 63,
+      "dribbling": 68,
+      "defending": 95,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_icons_277",
+    "name": "Carles Puyol",
+    "nationality": "Spain",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 130,
+    "overall": 92,
+    "attributes": {
+      "pace": 76,
+      "shooting": 45,
+      "passing": 68,
+      "dribbling": 61,
+      "defending": 94,
+      "physical": 90
+    }
+  },
+  {
+    "id": "p_icons_278",
+    "name": "Bobby Moore",
+    "nationality": "England",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 125,
+    "overall": 92,
+    "attributes": {
+      "pace": 75,
+      "shooting": 55,
+      "passing": 82,
+      "dribbling": 79,
+      "defending": 93,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_icons_279",
+    "name": "Alessandro Nesta",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 130,
+    "overall": 92,
+    "attributes": {
+      "pace": 79,
+      "shooting": 42,
+      "passing": 65,
+      "dribbling": 66,
+      "defending": 95,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_icons_280",
+    "name": "Rio Ferdinand",
+    "nationality": "England",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 125,
+    "overall": 90,
+    "attributes": {
+      "pace": 84,
+      "shooting": 43,
+      "passing": 68,
+      "dribbling": 65,
+      "defending": 91,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_icons_281",
+    "name": "Nemanja Vidić",
+    "nationality": "Serbia",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 120,
+    "overall": 90,
+    "attributes": {
+      "pace": 76,
+      "shooting": 46,
+      "passing": 63,
+      "dribbling": 62,
+      "defending": 93,
+      "physical": 92
+    }
+  },
+  {
+    "id": "p_icons_282",
+    "name": "John Terry",
+    "nationality": "England",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 89,
+    "attributes": {
+      "pace": 68,
+      "shooting": 54,
+      "passing": 69,
+      "dribbling": 60,
+      "defending": 92,
+      "physical": 91
+    }
+  },
+  {
+    "id": "p_icons_283",
+    "name": "Philipp Lahm",
+    "nationality": "Germany",
+    "category": "icons",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 125,
+    "overall": 91,
+    "attributes": {
+      "pace": 86,
+      "shooting": 64,
+      "passing": 86,
+      "dribbling": 87,
+      "defending": 89,
+      "physical": 71
+    }
+  },
+  {
+    "id": "p_icons_284",
+    "name": "Javier Zanetti",
+    "nationality": "Argentina",
+    "category": "icons",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 125,
+    "overall": 92,
+    "attributes": {
+      "pace": 87,
+      "shooting": 60,
+      "passing": 83,
+      "dribbling": 84,
+      "defending": 90,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_icons_285",
+    "name": "Ashley Cole",
+    "nationality": "England",
+    "category": "icons",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 89,
+    "attributes": {
+      "pace": 89,
+      "shooting": 60,
+      "passing": 78,
+      "dribbling": 81,
+      "defending": 87,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_icons_286",
+    "name": "Marcel Desailly",
+    "nationality": "France",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 120,
+    "overall": 91,
+    "attributes": {
+      "pace": 82,
+      "shooting": 48,
+      "passing": 67,
+      "dribbling": 63,
+      "defending": 92,
+      "physical": 90
+    }
+  },
+  {
+    "id": "p_icons_287",
+    "name": "Laurent Blanc",
+    "nationality": "France",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 90,
+    "attributes": {
+      "pace": 76,
+      "shooting": 68,
+      "passing": 76,
+      "dribbling": 74,
+      "defending": 91,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_icons_288",
+    "name": "Fernando Hierro",
+    "nationality": "Spain",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 90,
+    "attributes": {
+      "pace": 74,
+      "shooting": 76,
+      "passing": 79,
+      "dribbling": 72,
+      "defending": 91,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_icons_289",
+    "name": "Ronald Koeman",
+    "nationality": "Netherlands",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 120,
+    "overall": 90,
+    "attributes": {
+      "pace": 73,
+      "shooting": 88,
+      "passing": 88,
+      "dribbling": 75,
+      "defending": 88,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_icons_290",
+    "name": "Carlos Alberto",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 125,
+    "overall": 91,
+    "attributes": {
+      "pace": 90,
+      "shooting": 69,
+      "passing": 80,
+      "dribbling": 83,
+      "defending": 87,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_icons_291",
+    "name": "Jaap Stam",
+    "nationality": "Netherlands",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 90,
+    "attributes": {
+      "pace": 81,
+      "shooting": 45,
+      "passing": 63,
+      "dribbling": 62,
+      "defending": 91,
+      "physical": 94
+    }
+  },
+  {
+    "id": "p_icons_292",
+    "name": "Sol Campbell",
+    "nationality": "England",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 110,
+    "overall": 89,
+    "attributes": {
+      "pace": 83,
+      "shooting": 42,
+      "passing": 60,
+      "dribbling": 58,
+      "defending": 90,
+      "physical": 92
+    }
+  },
+  {
+    "id": "p_icons_293",
+    "name": "Lilian Thuram",
+    "nationality": "France",
+    "category": "icons",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 120,
+    "overall": 90,
+    "attributes": {
+      "pace": 87,
+      "shooting": 55,
+      "passing": 76,
+      "dribbling": 78,
+      "defending": 91,
+      "physical": 88
+    }
+  },
+  {
+    "id": "p_icons_294",
+    "name": "Gianluca Zambrotta",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 89,
+    "attributes": {
+      "pace": 88,
+      "shooting": 70,
+      "passing": 81,
+      "dribbling": 83,
+      "defending": 87,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_icons_295",
+    "name": "Gaetano Scirea",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 125,
+    "overall": 91,
+    "attributes": {
+      "pace": 78,
+      "shooting": 52,
+      "passing": 82,
+      "dribbling": 79,
+      "defending": 95,
+      "physical": 81
+    }
+  },
+  {
+    "id": "p_icons_296",
+    "name": "Gary Neville",
+    "nationality": "England",
+    "category": "icons",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 88,
+    "attributes": {
+      "pace": 79,
+      "shooting": 55,
+      "passing": 82,
+      "dribbling": 74,
+      "defending": 87,
+      "physical": 81
+    }
+  },
+  {
+    "id": "p_icons_297",
+    "name": "Jamie Carragher",
+    "nationality": "England",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 88,
+    "attributes": {
+      "pace": 75,
+      "shooting": 43,
+      "passing": 68,
+      "dribbling": 62,
+      "defending": 90,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_icons_298",
+    "name": "Bixente Lizarazu",
+    "nationality": "France",
+    "category": "icons",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 110,
+    "overall": 89,
+    "attributes": {
+      "pace": 85,
+      "shooting": 65,
+      "passing": 79,
+      "dribbling": 78,
+      "defending": 88,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_icons_299",
+    "name": "Vincent Kompany",
+    "nationality": "Belgium",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 89,
+    "attributes": {
+      "pace": 76,
+      "shooting": 59,
+      "passing": 71,
+      "dribbling": 70,
+      "defending": 90,
+      "physical": 88
+    }
+  },
+  {
+    "id": "p_icons_300",
+    "name": "Rafa Márquez",
+    "nationality": "Mexico",
+    "category": "icons",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 110,
+    "overall": 89,
+    "attributes": {
+      "pace": 73,
+      "shooting": 68,
+      "passing": 81,
+      "dribbling": 75,
+      "defending": 90,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_endofera_301",
+    "name": "Sergio Ramos",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 89,
+    "attributes": {
+      "pace": 75,
+      "shooting": 70,
+      "passing": 76,
+      "dribbling": 74,
+      "defending": 88,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_endofera_302",
+    "name": "Thiago Silva",
+    "nationality": "Brazil",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 88,
+    "attributes": {
+      "pace": 65,
+      "shooting": 54,
+      "passing": 75,
+      "dribbling": 71,
+      "defending": 89,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_endofera_303",
+    "name": "Giorgio Chiellini",
+    "nationality": "Italy",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 88,
+    "attributes": {
+      "pace": 67,
+      "shooting": 46,
+      "passing": 58,
+      "dribbling": 60,
+      "defending": 90,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_endofera_304",
+    "name": "Leonardo Bonucci",
+    "nationality": "Italy",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 86,
+    "attributes": {
+      "pace": 60,
+      "shooting": 58,
+      "passing": 78,
+      "dribbling": 70,
+      "defending": 87,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_endofera_305",
+    "name": "Gerard Piqué",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 90,
+    "overall": 85,
+    "attributes": {
+      "pace": 58,
+      "shooting": 61,
+      "passing": 75,
+      "dribbling": 68,
+      "defending": 86,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_endofera_306",
+    "name": "Pepe",
+    "nationality": "Portugal",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 90,
+    "overall": 85,
+    "attributes": {
+      "pace": 72,
+      "shooting": 51,
+      "passing": 60,
+      "dribbling": 61,
+      "defending": 86,
+      "physical": 88
+    }
+  },
+  {
+    "id": "p_endofera_307",
+    "name": "Marcelo",
+    "nationality": "Brazil",
+    "category": "endofera",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 86,
+    "attributes": {
+      "pace": 79,
+      "shooting": 73,
+      "passing": 83,
+      "dribbling": 88,
+      "defending": 75,
+      "physical": 74
+    }
+  },
+  {
+    "id": "p_endofera_308",
+    "name": "Dani Alves",
+    "nationality": "Brazil",
+    "category": "endofera",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 110,
+    "overall": 87,
+    "attributes": {
+      "pace": 82,
+      "shooting": 75,
+      "passing": 85,
+      "dribbling": 86,
+      "defending": 78,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_endofera_309",
+    "name": "Jordi Alba",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "pace": 86,
+      "shooting": 68,
+      "passing": 81,
+      "dribbling": 83,
+      "defending": 78,
+      "physical": 70
+    }
+  },
+  {
+    "id": "p_endofera_310",
+    "name": "Mats Hummels",
+    "nationality": "Germany",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 86,
+    "attributes": {
+      "pace": 54,
+      "shooting": 59,
+      "passing": 78,
+      "dribbling": 73,
+      "defending": 88,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_endofera_311",
+    "name": "Jérôme Boateng",
+    "nationality": "Germany",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "pace": 66,
+      "shooting": 50,
+      "passing": 74,
+      "dribbling": 66,
+      "defending": 84,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_endofera_312",
+    "name": "Raphaël Varane",
+    "nationality": "France",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "pace": 79,
+      "shooting": 49,
+      "passing": 65,
+      "dribbling": 66,
+      "defending": 86,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_endofera_313",
+    "name": "Diego Godín",
+    "nationality": "Uruguay",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 86,
+    "attributes": {
+      "pace": 60,
+      "shooting": 48,
+      "passing": 65,
+      "dribbling": 62,
+      "defending": 89,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_endofera_314",
+    "name": "César Azpilicueta",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 85,
+    "overall": 83,
+    "attributes": {
+      "pace": 68,
+      "shooting": 55,
+      "passing": 75,
+      "dribbling": 73,
+      "defending": 84,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_endofera_315",
+    "name": "Kyle Walker",
+    "nationality": "England",
+    "category": "endofera",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "pace": 91,
+      "shooting": 63,
+      "passing": 76,
+      "dribbling": 78,
+      "defending": 81,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_endofera_316",
+    "name": "Jan Vertonghen",
+    "nationality": "Belgium",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 80,
+    "overall": 83,
+    "attributes": {
+      "pace": 61,
+      "shooting": 63,
+      "passing": 74,
+      "dribbling": 70,
+      "defending": 85,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_endofera_317",
+    "name": "Toby Alderweireld",
+    "nationality": "Belgium",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 80,
+    "overall": 83,
+    "attributes": {
+      "pace": 59,
+      "shooting": 55,
+      "passing": 76,
+      "dribbling": 67,
+      "defending": 86,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_endofera_318",
+    "name": "David Alaba",
+    "nationality": "Austria",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "pace": 78,
+      "shooting": 71,
+      "passing": 84,
+      "dribbling": 80,
+      "defending": 84,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_endofera_319",
+    "name": "Dani Carvajal",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "pace": 80,
+      "shooting": 55,
+      "passing": 78,
+      "dribbling": 79,
+      "defending": 82,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_endofera_320",
+    "name": "Marquinhos",
+    "nationality": "Brazil",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 87,
+    "attributes": {
+      "pace": 78,
+      "shooting": 54,
+      "passing": 76,
+      "dribbling": 75,
+      "defending": 88,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_endofera_321",
+    "name": "Kalidou Koulibaly",
+    "nationality": "Senegal",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "pace": 74,
+      "shooting": 33,
+      "passing": 56,
+      "dribbling": 63,
+      "defending": 86,
+      "physical": 87
+    }
+  },
+  {
+    "id": "p_endofera_322",
+    "name": "João Cancelo",
+    "nationality": "Portugal",
+    "category": "endofera",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 86,
+    "attributes": {
+      "pace": 84,
+      "shooting": 73,
+      "passing": 85,
+      "dribbling": 85,
+      "defending": 80,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_endofera_323",
+    "name": "Andy Robertson",
+    "nationality": "Scotland",
+    "category": "endofera",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 100,
+    "overall": 86,
+    "attributes": {
+      "pace": 82,
+      "shooting": 61,
+      "passing": 81,
+      "dribbling": 79,
+      "defending": 82,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_endofera_324",
+    "name": "Kieran Trippier",
+    "nationality": "England",
+    "category": "endofera",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "pace": 71,
+      "shooting": 65,
+      "passing": 83,
+      "dribbling": 77,
+      "defending": 81,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_endofera_325",
+    "name": "Antonio Rüdiger",
+    "nationality": "Germany",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 86,
+    "attributes": {
+      "pace": 82,
+      "shooting": 43,
+      "passing": 71,
+      "dribbling": 67,
+      "defending": 85,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_endofera_326",
+    "name": "John Stones",
+    "nationality": "England",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "pace": 72,
+      "shooting": 55,
+      "passing": 78,
+      "dribbling": 77,
+      "defending": 85,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_endofera_327",
+    "name": "Harry Maguire",
+    "nationality": "England",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 80,
+    "overall": 82,
+    "attributes": {
+      "pace": 50,
+      "shooting": 54,
+      "passing": 68,
+      "dribbling": 65,
+      "defending": 82,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_endofera_328",
+    "name": "Stefan de Vrij",
+    "nationality": "Netherlands",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "pace": 65,
+      "shooting": 41,
+      "passing": 66,
+      "dribbling": 66,
+      "defending": 85,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_endofera_329",
+    "name": "Nicolás Otamendi",
+    "nationality": "Argentina",
+    "category": "endofera",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 80,
+    "overall": 82,
+    "attributes": {
+      "pace": 55,
+      "shooting": 53,
+      "passing": 63,
+      "dribbling": 58,
+      "defending": 82,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_endofera_330",
+    "name": "Marcos Alonso",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 81,
+    "attributes": {
+      "pace": 61,
+      "shooting": 71,
+      "passing": 77,
+      "dribbling": 76,
+      "defending": 79,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_stars_331",
+    "name": "Virgil van Dijk",
+    "nationality": "Netherlands",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 130,
+    "overall": 89,
+    "attributes": {
+      "pace": 78,
+      "shooting": 60,
+      "passing": 71,
+      "dribbling": 72,
+      "defending": 89,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_stars_332",
+    "name": "Rúben Dias",
+    "nationality": "Portugal",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 130,
+    "overall": 89,
+    "attributes": {
+      "pace": 62,
+      "shooting": 39,
+      "passing": 66,
+      "dribbling": 68,
+      "defending": 89,
+      "physical": 87
+    }
+  },
+  {
+    "id": "p_stars_333",
+    "name": "Trent Alexander-Arnold",
+    "nationality": "England",
+    "category": "stars",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 120,
+    "overall": 86,
+    "attributes": {
+      "pace": 76,
+      "shooting": 69,
+      "passing": 90,
+      "dribbling": 80,
+      "defending": 76,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_stars_334",
+    "name": "Theo Hernández",
+    "nationality": "France",
+    "category": "stars",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 85,
+    "attributes": {
+      "pace": 93,
+      "shooting": 71,
+      "passing": 76,
+      "dribbling": 81,
+      "defending": 78,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_335",
+    "name": "Achraf Hakimi",
+    "nationality": "Morocco",
+    "category": "stars",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 110,
+    "overall": 84,
+    "attributes": {
+      "pace": 92,
+      "shooting": 73,
+      "passing": 79,
+      "dribbling": 80,
+      "defending": 75,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_stars_336",
+    "name": "Alphonso Davies",
+    "nationality": "Canada",
+    "category": "stars",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 110,
+    "overall": 84,
+    "attributes": {
+      "pace": 95,
+      "shooting": 68,
+      "passing": 77,
+      "dribbling": 84,
+      "defending": 76,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_stars_337",
+    "name": "William Saliba",
+    "nationality": "France",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 120,
+    "overall": 86,
+    "attributes": {
+      "pace": 82,
+      "shooting": 39,
+      "passing": 70,
+      "dribbling": 72,
+      "defending": 86,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_338",
+    "name": "Ronald Araújo",
+    "nationality": "Uruguay",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 86,
+    "attributes": {
+      "pace": 79,
+      "shooting": 51,
+      "passing": 65,
+      "dribbling": 65,
+      "defending": 86,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_stars_339",
+    "name": "Éder Militão",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 86,
+    "attributes": {
+      "pace": 85,
+      "shooting": 50,
+      "passing": 70,
+      "dribbling": 71,
+      "defending": 85,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_340",
+    "name": "Alessandro Bastoni",
+    "nationality": "Italy",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 110,
+    "overall": 85,
+    "attributes": {
+      "pace": 73,
+      "shooting": 36,
+      "passing": 75,
+      "dribbling": 72,
+      "defending": 86,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_341",
+    "name": "Joško Gvardiol",
+    "nationality": "Croatia",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 115,
+    "overall": 86,
+    "attributes": {
+      "pace": 78,
+      "shooting": 54,
+      "passing": 74,
+      "dribbling": 78,
+      "defending": 84,
+      "physical": 83
+    }
+  },
+  {
+    "id": "p_stars_342",
+    "name": "Matthijs de Ligt",
+    "nationality": "Netherlands",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 110,
+    "overall": 86,
+    "attributes": {
+      "pace": 68,
+      "shooting": 59,
+      "passing": 71,
+      "dribbling": 68,
+      "defending": 85,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_stars_343",
+    "name": "Dayot Upamecano",
+    "nationality": "France",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 83,
+    "attributes": {
+      "pace": 81,
+      "shooting": 43,
+      "passing": 68,
+      "dribbling": 70,
+      "defending": 83,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_344",
+    "name": "Gabriel Magalhães",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 110,
+    "overall": 85,
+    "attributes": {
+      "pace": 68,
+      "shooting": 43,
+      "passing": 69,
+      "dribbling": 64,
+      "defending": 85,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_stars_345",
+    "name": "Gleison Bremer",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 84,
+    "attributes": {
+      "pace": 81,
+      "shooting": 43,
+      "passing": 58,
+      "dribbling": 62,
+      "defending": 85,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_stars_346",
+    "name": "Federico Dimarco",
+    "nationality": "Italy",
+    "category": "stars",
+    "position": "LWB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 84,
+    "attributes": {
+      "pace": 81,
+      "shooting": 76,
+      "passing": 84,
+      "dribbling": 81,
+      "defending": 74,
+      "physical": 71
+    }
+  },
+  {
+    "id": "p_stars_347",
+    "name": "Jeremie Frimpong",
+    "nationality": "Netherlands",
+    "category": "stars",
+    "position": "RWB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 84,
+    "attributes": {
+      "pace": 94,
+      "shooting": 72,
+      "passing": 76,
+      "dribbling": 85,
+      "defending": 73,
+      "physical": 64
+    }
+  },
+  {
+    "id": "p_stars_348",
+    "name": "Álex Grimaldo",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "LWB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 84,
+    "attributes": {
+      "pace": 84,
+      "shooting": 76,
+      "passing": 85,
+      "dribbling": 85,
+      "defending": 75,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_stars_349",
+    "name": "Ben White",
+    "nationality": "England",
+    "category": "stars",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 83,
+    "attributes": {
+      "pace": 76,
+      "shooting": 46,
+      "passing": 76,
+      "dribbling": 76,
+      "defending": 82,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_stars_350",
+    "name": "Jules Koundé",
+    "nationality": "France",
+    "category": "stars",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 105,
+    "overall": 85,
+    "attributes": {
+      "pace": 82,
+      "shooting": 45,
+      "passing": 76,
+      "dribbling": 78,
+      "defending": 85,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_stars_351",
+    "name": "Reece James",
+    "nationality": "England",
+    "category": "stars",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 83,
+    "attributes": {
+      "pace": 78,
+      "shooting": 71,
+      "passing": 82,
+      "dribbling": 80,
+      "defending": 79,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_stars_352",
+    "name": "Cristian Romero",
+    "nationality": "Argentina",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 73,
+      "shooting": 46,
+      "passing": 64,
+      "dribbling": 66,
+      "defending": 85,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_stars_353",
+    "name": "Sven Botman",
+    "nationality": "Netherlands",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 90,
+    "overall": 83,
+    "attributes": {
+      "pace": 61,
+      "shooting": 33,
+      "passing": 67,
+      "dribbling": 61,
+      "defending": 84,
+      "physical": 85
+    }
+  },
+  {
+    "id": "p_stars_354",
+    "name": "Lisandro Martínez",
+    "nationality": "Argentina",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 90,
+    "overall": 83,
+    "attributes": {
+      "pace": 70,
+      "shooting": 56,
+      "passing": 78,
+      "dribbling": 77,
+      "defending": 82,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_stars_355",
+    "name": "Jonathan Tah",
+    "nationality": "Germany",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 84,
+    "attributes": {
+      "pace": 70,
+      "shooting": 30,
+      "passing": 62,
+      "dribbling": 58,
+      "defending": 84,
+      "physical": 86
+    }
+  },
+  {
+    "id": "p_stars_356",
+    "name": "Pau Torres",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 90,
+    "overall": 83,
+    "attributes": {
+      "pace": 68,
+      "shooting": 35,
+      "passing": 76,
+      "dribbling": 72,
+      "defending": 83,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_stars_357",
+    "name": "Nuno Mendes",
+    "nationality": "Portugal",
+    "category": "stars",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 90,
+    "overall": 83,
+    "attributes": {
+      "pace": 91,
+      "shooting": 60,
+      "passing": 76,
+      "dribbling": 81,
+      "defending": 76,
+      "physical": 74
+    }
+  },
+  {
+    "id": "p_stars_358",
+    "name": "Pedro Porro",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 85,
+    "overall": 82,
+    "attributes": {
+      "pace": 81,
+      "shooting": 72,
+      "passing": 79,
+      "dribbling": 80,
+      "defending": 75,
+      "physical": 73
+    }
+  },
+  {
+    "id": "p_stars_359",
+    "name": "Diogo Dalot",
+    "nationality": "Portugal",
+    "category": "stars",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 85,
+    "overall": 82,
+    "attributes": {
+      "pace": 82,
+      "shooting": 68,
+      "passing": 78,
+      "dribbling": 79,
+      "defending": 78,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_stars_360",
+    "name": "Nathan Aké",
+    "nationality": "Netherlands",
+    "category": "stars",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 95,
+    "overall": 83,
+    "attributes": {
+      "pace": 76,
+      "shooting": 50,
+      "passing": 75,
+      "dribbling": 73,
+      "defending": 84,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_younggen_361",
+    "name": "Leny Yoro",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 78,
+    "attributes": {
+      "pace": 78,
+      "shooting": 35,
+      "passing": 68,
+      "dribbling": 65,
+      "defending": 78,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_younggen_362",
+    "name": "Giorgio Scalvini",
+    "nationality": "Italy",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 77,
+    "attributes": {
+      "pace": 68,
+      "shooting": 48,
+      "passing": 65,
+      "dribbling": 68,
+      "defending": 77,
+      "physical": 75
+    }
+  },
+  {
+    "id": "p_younggen_363",
+    "name": "António Silva",
+    "nationality": "Portugal",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 79,
+    "attributes": {
+      "pace": 73,
+      "shooting": 40,
+      "passing": 66,
+      "dribbling": 65,
+      "defending": 79,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_younggen_364",
+    "name": "Gonçalo Inácio",
+    "nationality": "Portugal",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 79,
+    "attributes": {
+      "pace": 74,
+      "shooting": 52,
+      "passing": 75,
+      "dribbling": 71,
+      "defending": 78,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_younggen_365",
+    "name": "Castello Lukeba",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 78,
+    "attributes": {
+      "pace": 77,
+      "shooting": 38,
+      "passing": 68,
+      "dribbling": 67,
+      "defending": 77,
+      "physical": 74
+    }
+  },
+  {
+    "id": "p_younggen_366",
+    "name": "Alejandro Balde",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 80,
+    "overall": 81,
+    "attributes": {
+      "pace": 91,
+      "shooting": 52,
+      "passing": 72,
+      "dribbling": 80,
+      "defending": 73,
+      "physical": 64
+    }
+  },
+  {
+    "id": "p_younggen_367",
+    "name": "Rico Lewis",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 77,
+    "attributes": {
+      "pace": 81,
+      "shooting": 58,
+      "passing": 77,
+      "dribbling": 78,
+      "defending": 72,
+      "physical": 62
+    }
+  },
+  {
+    "id": "p_younggen_368",
+    "name": "Malo Gusto",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 79,
+    "attributes": {
+      "pace": 88,
+      "shooting": 52,
+      "passing": 73,
+      "dribbling": 77,
+      "defending": 74,
+      "physical": 71
+    }
+  },
+  {
+    "id": "p_younggen_369",
+    "name": "Levi Colwill",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 78,
+    "attributes": {
+      "pace": 68,
+      "shooting": 40,
+      "passing": 74,
+      "dribbling": 69,
+      "defending": 79,
+      "physical": 76
+    }
+  },
+  {
+    "id": "p_younggen_370",
+    "name": "Jorrel Hato",
+    "nationality": "Netherlands",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 76,
+    "attributes": {
+      "pace": 81,
+      "shooting": 45,
+      "passing": 71,
+      "dribbling": 72,
+      "defending": 74,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_371",
+    "name": "Pau Cubarsí",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 65,
+    "overall": 75,
+    "attributes": {
+      "pace": 68,
+      "shooting": 38,
+      "passing": 76,
+      "dribbling": 70,
+      "defending": 76,
+      "physical": 66
+    }
+  },
+  {
+    "id": "p_younggen_372",
+    "name": "Yann Aurel Bisseck",
+    "nationality": "Germany",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 65,
+    "overall": 75,
+    "attributes": {
+      "pace": 74,
+      "shooting": 46,
+      "passing": 64,
+      "dribbling": 68,
+      "defending": 74,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_younggen_373",
+    "name": "Jarell Quansah",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 65,
+    "overall": 75,
+    "attributes": {
+      "pace": 68,
+      "shooting": 42,
+      "passing": 68,
+      "dribbling": 65,
+      "defending": 76,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_younggen_374",
+    "name": "Conor Bradley",
+    "nationality": "Northern Ireland",
+    "category": "younggen",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 76,
+    "attributes": {
+      "pace": 84,
+      "shooting": 60,
+      "passing": 74,
+      "dribbling": 76,
+      "defending": 71,
+      "physical": 66
+    }
+  },
+  {
+    "id": "p_younggen_375",
+    "name": "Destiny Udogie",
+    "nationality": "Italy",
+    "category": "younggen",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 80,
+    "overall": 80,
+    "attributes": {
+      "pace": 87,
+      "shooting": 65,
+      "passing": 74,
+      "dribbling": 79,
+      "defending": 73,
+      "physical": 77
+    }
+  },
+  {
+    "id": "p_younggen_376",
+    "name": "Milos Kerkez",
+    "nationality": "Hungary",
+    "category": "younggen",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 65,
+    "overall": 76,
+    "attributes": {
+      "pace": 86,
+      "shooting": 55,
+      "passing": 70,
+      "dribbling": 75,
+      "defending": 70,
+      "physical": 72
+    }
+  },
+  {
+    "id": "p_younggen_377",
+    "name": "Iván Fresneda",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 60,
+    "overall": 74,
+    "attributes": {
+      "pace": 78,
+      "shooting": 45,
+      "passing": 68,
+      "dribbling": 72,
+      "defending": 72,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_378",
+    "name": "Arnau Martínez",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 78,
+    "attributes": {
+      "pace": 76,
+      "shooting": 54,
+      "passing": 74,
+      "dribbling": 76,
+      "defending": 76,
+      "physical": 71
+    }
+  },
+  {
+    "id": "p_younggen_379",
+    "name": "Jarrad Branthwaite",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 79,
+    "attributes": {
+      "pace": 66,
+      "shooting": 45,
+      "passing": 64,
+      "dribbling": 62,
+      "defending": 80,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_younggen_380",
+    "name": "Ousmane Diomande",
+    "nationality": "Ivory Coast",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 78,
+    "attributes": {
+      "pace": 74,
+      "shooting": 44,
+      "passing": 67,
+      "dribbling": 65,
+      "defending": 77,
+      "physical": 84
+    }
+  },
+  {
+    "id": "p_younggen_381",
+    "name": "Tino Livramento",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 77,
+    "attributes": {
+      "pace": 86,
+      "shooting": 52,
+      "passing": 71,
+      "dribbling": 76,
+      "defending": 72,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_382",
+    "name": "Rico Henry",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 77,
+    "attributes": {
+      "pace": 90,
+      "shooting": 48,
+      "passing": 70,
+      "dribbling": 75,
+      "defending": 72,
+      "physical": 65
+    }
+  },
+  {
+    "id": "p_younggen_383",
+    "name": "Yan Couto",
+    "nationality": "Brazil",
+    "category": "younggen",
+    "position": "RB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 78,
+    "attributes": {
+      "pace": 86,
+      "shooting": 58,
+      "passing": 76,
+      "dribbling": 81,
+      "defending": 68,
+      "physical": 61
+    }
+  },
+  {
+    "id": "p_younggen_384",
+    "name": "Miguel Gutiérrez",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "LB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 79,
+    "attributes": {
+      "pace": 81,
+      "shooting": 68,
+      "passing": 79,
+      "dribbling": 81,
+      "defending": 73,
+      "physical": 68
+    }
+  },
+  {
+    "id": "p_younggen_385",
+    "name": "Cristhian Mosquera",
+    "nationality": "Spain",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 65,
+    "overall": 76,
+    "attributes": {
+      "pace": 72,
+      "shooting": 30,
+      "passing": 58,
+      "dribbling": 58,
+      "defending": 77,
+      "physical": 79
+    }
+  },
+  {
+    "id": "p_younggen_386",
+    "name": "Murillo",
+    "nationality": "Brazil",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 77,
+    "attributes": {
+      "pace": 76,
+      "shooting": 40,
+      "passing": 68,
+      "dribbling": 70,
+      "defending": 76,
+      "physical": 81
+    }
+  },
+  {
+    "id": "p_younggen_387",
+    "name": "Illia Zabarnyi",
+    "nationality": "Ukraine",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 77,
+    "attributes": {
+      "pace": 68,
+      "shooting": 35,
+      "passing": 62,
+      "dribbling": 60,
+      "defending": 78,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_younggen_388",
+    "name": "Piero Hincapié",
+    "nationality": "Ecuador",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 80,
+    "overall": 80,
+    "attributes": {
+      "pace": 78,
+      "shooting": 50,
+      "passing": 70,
+      "dribbling": 72,
+      "defending": 79,
+      "physical": 78
+    }
+  },
+  {
+    "id": "p_younggen_389",
+    "name": "Oumar Solet",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 70,
+    "overall": 77,
+    "attributes": {
+      "pace": 77,
+      "shooting": 38,
+      "passing": 60,
+      "dribbling": 65,
+      "defending": 76,
+      "physical": 82
+    }
+  },
+  {
+    "id": "p_younggen_390",
+    "name": "Odilon Kossounou",
+    "nationality": "Ivory Coast",
+    "category": "younggen",
+    "position": "CB",
+    "primary": "DEF",
+    "baseprice": 75,
+    "overall": 79,
+    "attributes": {
+      "pace": 79,
+      "shooting": 42,
+      "passing": 68,
+      "dribbling": 68,
+      "defending": 79,
+      "physical": 80
+    }
+  },
+  {
+    "id": "p_icons_391",
+    "name": "Lev Yashin",
+    "nationality": "Russia",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 140,
+    "overall": 94,
+    "attributes": {
+      "diving": 95,
+      "handling": 89,
+      "kicking": 73,
+      "reflexes": 96,
+      "speed": 60,
+      "positioning": 94
+    }
+  },
+  {
+    "id": "p_icons_392",
+    "name": "Gianluigi Buffon",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 135,
+    "overall": 93,
+    "attributes": {
+      "diving": 90,
+      "handling": 92,
+      "kicking": 74,
+      "reflexes": 93,
+      "speed": 45,
+      "positioning": 96
+    }
+  },
+  {
+    "id": "p_icons_393",
+    "name": "Peter Schmeichel",
+    "nationality": "Denmark",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 135,
+    "overall": 92,
+    "attributes": {
+      "diving": 89,
+      "handling": 87,
+      "kicking": 86,
+      "reflexes": 93,
+      "speed": 52,
+      "positioning": 90
+    }
+  },
+  {
+    "id": "p_icons_394",
+    "name": "Iker Casillas",
+    "nationality": "Spain",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 130,
+    "overall": 92,
+    "attributes": {
+      "diving": 94,
+      "handling": 86,
+      "kicking": 72,
+      "reflexes": 95,
+      "speed": 62,
+      "positioning": 89
+    }
+  },
+  {
+    "id": "p_icons_395",
+    "name": "Petr Čech",
+    "nationality": "Czech Republic",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 125,
+    "overall": 91,
+    "attributes": {
+      "diving": 88,
+      "handling": 92,
+      "kicking": 78,
+      "reflexes": 89,
+      "speed": 48,
+      "positioning": 91
+    }
+  },
+  {
+    "id": "p_icons_396",
+    "name": "Edwin van der Sar",
+    "nationality": "Netherlands",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 125,
+    "overall": 91,
+    "attributes": {
+      "diving": 87,
+      "handling": 88,
+      "kicking": 89,
+      "reflexes": 88,
+      "speed": 50,
+      "positioning": 93
+    }
+  },
+  {
+    "id": "p_icons_397",
+    "name": "Oliver Kahn",
+    "nationality": "Germany",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 130,
+    "overall": 93,
+    "attributes": {
+      "diving": 91,
+      "handling": 88,
+      "kicking": 83,
+      "reflexes": 94,
+      "speed": 50,
+      "positioning": 93
+    }
+  },
+  {
+    "id": "p_icons_398",
+    "name": "Dino Zoff",
+    "nationality": "Italy",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 125,
+    "overall": 92,
+    "attributes": {
+      "diving": 89,
+      "handling": 94,
+      "kicking": 72,
+      "reflexes": 90,
+      "speed": 45,
+      "positioning": 95
+    }
+  },
+  {
+    "id": "p_icons_399",
+    "name": "Sepp Maier",
+    "nationality": "Germany",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 120,
+    "overall": 91,
+    "attributes": {
+      "diving": 92,
+      "handling": 86,
+      "kicking": 70,
+      "reflexes": 93,
+      "speed": 55,
+      "positioning": 89
+    }
+  },
+  {
+    "id": "p_icons_400",
+    "name": "Dida",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 110,
+    "overall": 89,
+    "attributes": {
+      "diving": 88,
+      "handling": 83,
+      "kicking": 74,
+      "reflexes": 91,
+      "speed": 52,
+      "positioning": 87
+    }
+  },
+  {
+    "id": "p_icons_401",
+    "name": "Jens Lehmann",
+    "nationality": "Germany",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 110,
+    "overall": 89,
+    "attributes": {
+      "diving": 87,
+      "handling": 86,
+      "kicking": 82,
+      "reflexes": 89,
+      "speed": 53,
+      "positioning": 89
+    }
+  },
+  {
+    "id": "p_icons_402",
+    "name": "Júlio César",
+    "nationality": "Brazil",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 110,
+    "overall": 89,
+    "attributes": {
+      "diving": 89,
+      "handling": 85,
+      "kicking": 78,
+      "reflexes": 91,
+      "speed": 55,
+      "positioning": 86
+    }
+  },
+  {
+    "id": "p_icons_403",
+    "name": "David Seaman",
+    "nationality": "England",
+    "category": "icons",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 105,
+    "overall": 88,
+    "attributes": {
+      "diving": 85,
+      "handling": 90,
+      "kicking": 76,
+      "reflexes": 86,
+      "speed": 45,
+      "positioning": 88
+    }
+  },
+  {
+    "id": "p_endofera_404",
+    "name": "Manuel Neuer",
+    "nationality": "Germany",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 110,
+    "overall": 89,
+    "attributes": {
+      "diving": 87,
+      "handling": 88,
+      "kicking": 91,
+      "reflexes": 88,
+      "speed": 54,
+      "positioning": 90
+    }
+  },
+  {
+    "id": "p_endofera_405",
+    "name": "Keylor Navas",
+    "nationality": "Costa Rica",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 90,
+    "overall": 85,
+    "attributes": {
+      "diving": 88,
+      "handling": 80,
+      "kicking": 73,
+      "reflexes": 89,
+      "speed": 53,
+      "positioning": 81
+    }
+  },
+  {
+    "id": "p_endofera_406",
+    "name": "Hugo Lloris",
+    "nationality": "France",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "diving": 87,
+      "handling": 81,
+      "kicking": 70,
+      "reflexes": 88,
+      "speed": 60,
+      "positioning": 80
+    }
+  },
+  {
+    "id": "p_endofera_407",
+    "name": "Wojciech Szczęsny",
+    "nationality": "Poland",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 90,
+    "overall": 85,
+    "attributes": {
+      "diving": 85,
+      "handling": 82,
+      "kicking": 73,
+      "reflexes": 87,
+      "speed": 48,
+      "positioning": 85
+    }
+  },
+  {
+    "id": "p_endofera_408",
+    "name": "Yann Sommer",
+    "nationality": "Switzerland",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 90,
+    "overall": 85,
+    "attributes": {
+      "diving": 82,
+      "handling": 85,
+      "kicking": 80,
+      "reflexes": 89,
+      "speed": 50,
+      "positioning": 84
+    }
+  },
+  {
+    "id": "p_endofera_409",
+    "name": "David de Gea",
+    "nationality": "Spain",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 85,
+    "overall": 84,
+    "attributes": {
+      "diving": 86,
+      "handling": 78,
+      "kicking": 74,
+      "reflexes": 89,
+      "speed": 52,
+      "positioning": 80
+    }
+  },
+  {
+    "id": "p_endofera_410",
+    "name": "Rui Patrício",
+    "nationality": "Portugal",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 75,
+    "overall": 82,
+    "attributes": {
+      "diving": 83,
+      "handling": 80,
+      "kicking": 72,
+      "reflexes": 83,
+      "speed": 45,
+      "positioning": 81
+    }
+  },
+  {
+    "id": "p_endofera_411",
+    "name": "Claudio Bravo",
+    "nationality": "Chile",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 70,
+    "overall": 81,
+    "attributes": {
+      "diving": 81,
+      "handling": 80,
+      "kicking": 84,
+      "reflexes": 83,
+      "speed": 47,
+      "positioning": 80
+    }
+  },
+  {
+    "id": "p_endofera_412",
+    "name": "Guillermo Ochoa",
+    "nationality": "Mexico",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 65,
+    "overall": 80,
+    "attributes": {
+      "diving": 84,
+      "handling": 75,
+      "kicking": 68,
+      "reflexes": 87,
+      "speed": 53,
+      "positioning": 77
+    }
+  },
+  {
+    "id": "p_endofera_413",
+    "name": "Kasper Schmeichel",
+    "nationality": "Denmark",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 70,
+    "overall": 81,
+    "attributes": {
+      "diving": 81,
+      "handling": 77,
+      "kicking": 80,
+      "reflexes": 84,
+      "speed": 50,
+      "positioning": 79
+    }
+  },
+  {
+    "id": "p_endofera_414",
+    "name": "Fernando Muslera",
+    "nationality": "Uruguay",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 65,
+    "overall": 80,
+    "attributes": {
+      "diving": 80,
+      "handling": 76,
+      "kicking": 72,
+      "reflexes": 83,
+      "speed": 51,
+      "positioning": 78
+    }
+  },
+  {
+    "id": "p_endofera_415",
+    "name": "Kevin Trapp",
+    "nationality": "Germany",
+    "category": "endofera",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 80,
+    "overall": 83,
+    "attributes": {
+      "diving": 83,
+      "handling": 80,
+      "kicking": 76,
+      "reflexes": 85,
+      "speed": 49,
+      "positioning": 82
+    }
+  },
+  {
+    "id": "p_stars_416",
+    "name": "Thibaut Courtois",
+    "nationality": "Belgium",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 120,
+    "overall": 90,
+    "attributes": {
+      "diving": 85,
+      "handling": 89,
+      "kicking": 76,
+      "reflexes": 93,
+      "speed": 46,
+      "positioning": 90
+    }
+  },
+  {
+    "id": "p_stars_417",
+    "name": "Alisson Becker",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 115,
+    "overall": 89,
+    "attributes": {
+      "diving": 86,
+      "handling": 85,
+      "kicking": 85,
+      "reflexes": 89,
+      "speed": 54,
+      "positioning": 90
+    }
+  },
+  {
+    "id": "p_stars_418",
+    "name": "Ederson",
+    "nationality": "Brazil",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 110,
+    "overall": 88,
+    "attributes": {
+      "diving": 86,
+      "handling": 82,
+      "kicking": 93,
+      "reflexes": 88,
+      "speed": 64,
+      "positioning": 86
+    }
+  },
+  {
+    "id": "p_stars_419",
+    "name": "Marc-André ter Stegen",
+    "nationality": "Germany",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 110,
+    "overall": 88,
+    "attributes": {
+      "diving": 86,
+      "handling": 85,
+      "kicking": 89,
+      "reflexes": 90,
+      "speed": 47,
+      "positioning": 86
+    }
+  },
+  {
+    "id": "p_stars_420",
+    "name": "Gianluigi Donnarumma",
+    "nationality": "Italy",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 110,
+    "overall": 88,
+    "attributes": {
+      "diving": 90,
+      "handling": 82,
+      "kicking": 79,
+      "reflexes": 90,
+      "speed": 52,
+      "positioning": 84
+    }
+  },
+  {
+    "id": "p_stars_421",
+    "name": "Mike Maignan",
+    "nationality": "France",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 105,
+    "overall": 87,
+    "attributes": {
+      "diving": 86,
+      "handling": 82,
+      "kicking": 85,
+      "reflexes": 89,
+      "speed": 54,
+      "positioning": 84
+    }
+  },
+  {
+    "id": "p_stars_422",
+    "name": "Emiliano Martínez",
+    "nationality": "Argentina",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 100,
+    "overall": 86,
+    "attributes": {
+      "diving": 85,
+      "handling": 83,
+      "kicking": 82,
+      "reflexes": 85,
+      "speed": 54,
+      "positioning": 84
+    }
+  },
+  {
+    "id": "p_stars_423",
+    "name": "Diogo Costa",
+    "nationality": "Portugal",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "diving": 84,
+      "handling": 81,
+      "kicking": 86,
+      "reflexes": 87,
+      "speed": 53,
+      "positioning": 83
+    }
+  },
+  {
+    "id": "p_stars_424",
+    "name": "Unai Simón",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "diving": 83,
+      "handling": 82,
+      "kicking": 81,
+      "reflexes": 85,
+      "speed": 51,
+      "positioning": 82
+    }
+  },
+  {
+    "id": "p_stars_425",
+    "name": "Gregor Kobel",
+    "nationality": "Switzerland",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 100,
+    "overall": 86,
+    "attributes": {
+      "diving": 85,
+      "handling": 82,
+      "kicking": 75,
+      "reflexes": 89,
+      "speed": 49,
+      "positioning": 84
+    }
+  },
+  {
+    "id": "p_stars_426",
+    "name": "Guglielmo Vicario",
+    "nationality": "Italy",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 95,
+    "overall": 85,
+    "attributes": {
+      "diving": 86,
+      "handling": 81,
+      "kicking": 76,
+      "reflexes": 88,
+      "speed": 52,
+      "positioning": 82
+    }
+  },
+  {
+    "id": "p_stars_427",
+    "name": "David Raya",
+    "nationality": "Spain",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "diving": 83,
+      "handling": 81,
+      "kicking": 85,
+      "reflexes": 85,
+      "speed": 49,
+      "positioning": 83
+    }
+  },
+  {
+    "id": "p_stars_428",
+    "name": "André Onana",
+    "nationality": "Cameroon",
+    "category": "stars",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 85,
+    "overall": 83,
+    "attributes": {
+      "diving": 83,
+      "handling": 78,
+      "kicking": 88,
+      "reflexes": 85,
+      "speed": 54,
+      "positioning": 81
+    }
+  },
+  {
+    "id": "p_younggen_429",
+    "name": "Giorgi Mamardashvili",
+    "nationality": "Georgia",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 90,
+    "overall": 84,
+    "attributes": {
+      "diving": 85,
+      "handling": 80,
+      "kicking": 75,
+      "reflexes": 87,
+      "speed": 48,
+      "positioning": 82
+    }
+  },
+  {
+    "id": "p_younggen_430",
+    "name": "Anatoliy Trubin",
+    "nationality": "Ukraine",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 75,
+    "overall": 82,
+    "attributes": {
+      "diving": 82,
+      "handling": 79,
+      "kicking": 76,
+      "reflexes": 83,
+      "speed": 45,
+      "positioning": 81
+    }
+  },
+  {
+    "id": "p_younggen_431",
+    "name": "Bart Verbruggen",
+    "nationality": "Netherlands",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 65,
+    "overall": 80,
+    "attributes": {
+      "diving": 80,
+      "handling": 77,
+      "kicking": 82,
+      "reflexes": 83,
+      "speed": 48,
+      "positioning": 78
+    }
+  },
+  {
+    "id": "p_younggen_432",
+    "name": "Lucas Chevalier",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 70,
+    "overall": 81,
+    "attributes": {
+      "diving": 83,
+      "handling": 78,
+      "kicking": 75,
+      "reflexes": 84,
+      "speed": 50,
+      "positioning": 79
+    }
+  },
+  {
+    "id": "p_younggen_433",
+    "name": "Guillaume Restes",
+    "nationality": "France",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 55,
+    "overall": 78,
+    "attributes": {
+      "diving": 80,
+      "handling": 75,
+      "kicking": 73,
+      "reflexes": 81,
+      "speed": 48,
+      "positioning": 76
+    }
+  },
+  {
+    "id": "p_younggen_434",
+    "name": "James Trafford",
+    "nationality": "England",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 45,
+    "overall": 76,
+    "attributes": {
+      "diving": 78,
+      "handling": 74,
+      "kicking": 79,
+      "reflexes": 78,
+      "speed": 46,
+      "positioning": 74
+    }
+  },
+  {
+    "id": "p_younggen_435",
+    "name": "Gabriel Slonina",
+    "nationality": "United States",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 40,
+    "overall": 74,
+    "attributes": {
+      "diving": 76,
+      "handling": 72,
+      "kicking": 70,
+      "reflexes": 77,
+      "speed": 45,
+      "positioning": 73
+    }
+  },
+  {
+    "id": "p_younggen_436",
+    "name": "Maarten Vandevoordt",
+    "nationality": "Belgium",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 50,
+    "overall": 77,
+    "attributes": {
+      "diving": 78,
+      "handling": 74,
+      "kicking": 78,
+      "reflexes": 80,
+      "speed": 47,
+      "positioning": 75
+    }
+  },
+  {
+    "id": "p_younggen_437",
+    "name": "Filip Jörgensen",
+    "nationality": "Denmark",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 50,
+    "overall": 77,
+    "attributes": {
+      "diving": 79,
+      "handling": 73,
+      "kicking": 75,
+      "reflexes": 81,
+      "speed": 46,
+      "positioning": 74
+    }
+  },
+  {
+    "id": "p_younggen_438",
+    "name": "Dennis Seimen",
+    "nationality": "Germany",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 35,
+    "overall": 72,
+    "attributes": {
+      "diving": 73,
+      "handling": 70,
+      "kicking": 71,
+      "reflexes": 75,
+      "speed": 44,
+      "positioning": 70
+    }
+  },
+  {
+    "id": "p_younggen_439",
+    "name": "Mike Penders",
+    "nationality": "Belgium",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 30,
+    "overall": 70,
+    "attributes": {
+      "diving": 71,
+      "handling": 68,
+      "kicking": 69,
+      "reflexes": 73,
+      "speed": 43,
+      "positioning": 68
+    }
+  },
+  {
+    "id": "p_younggen_440",
+    "name": "Rome-Jayden Owusu-Oduro",
+    "nationality": "Netherlands",
+    "category": "younggen",
+    "position": "GK",
+    "primary": "GK",
+    "baseprice": 35,
+    "overall": 71,
+    "attributes": {
+      "diving": 72,
+      "handling": 69,
+      "kicking": 70,
+      "reflexes": 74,
+      "speed": 45,
+      "positioning": 69
+    }
+  }
+]
