@@ -9,6 +9,16 @@ const app = express();
 app.use(cors());
 app.use(express.static(__dirname));
 
+// Serve landing page by default
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'index.html'));
+});
+
+// Serve auction room page directly
+app.get('/auction', (req, res) => {
+  res.sendFile(path.join(__dirname, 'auction.html'));
+});
+
 const server = http.createServer(app);
 const io = new Server(server, { cors: { origin: '*' } });
 
