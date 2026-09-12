@@ -7,7 +7,7 @@ const path = require('path');
 
 const app = express();
 app.use(cors());
-app.use(express.static(path.join(__dirname, '..')));
+app.use(express.static(__dirname));
 
 const server = http.createServer(app);
 const io = new Server(server, { cors: { origin: '*' } });
@@ -16,8 +16,8 @@ const io = new Server(server, { cors: { origin: '*' } });
 let rawManagers = [];
 let rawPlayers = [];
 try {
-  rawManagers = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/managers.json'), 'utf-8'));
-  rawPlayers = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/players.json'), 'utf-8'));
+  rawManagers = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'managers.json'), 'utf-8'));
+  rawPlayers = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'players.json'), 'utf-8'));
 } catch (e) {
   console.error("Error reading JSON files:", e);
 }
