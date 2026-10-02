@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://ufa-football.onrender.com/sitemap.xmls
+Sitemap: https://ufa-football.onrender.com/sitemap.xml
